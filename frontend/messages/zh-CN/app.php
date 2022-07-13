@@ -75,7 +75,7 @@ return [
 	'Xuan Kong Flying Star Fengshui' => '玄空飞星',
 	'Personal Direction'     => '个人吉方',
 	'Yi Jing Forecast'       => '易经预测',
-	'Ba Zi Liu Nian'         => '八字流年',
+	'Ba Zi Liu Nian'         => '八字命盤',
 	'Ba Zi Report'           => '八字报告',
 	'Check'                  => '立刻分析',
 	'Current Time'           => '现时起盘',
