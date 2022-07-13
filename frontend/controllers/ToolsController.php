@@ -643,7 +643,7 @@ class ToolsController extends Controller
 			$fateurl = 'www.ncc.com.tw';
 			// $item    = '龍巖風水八字命盤.流年';
 			// $item    = '龍巖風水八字命盤.無用神';
-			$item    = '龍巖風水八字命盤';
+			$item    = '龍巖風水八字命盤.奇門.流年1頁';
 			$userip  = Yii::$app->request->getUserIP();
 
 			$bazi          = $post['bazi'];
@@ -696,88 +696,6 @@ class ToolsController extends Controller
 			}
 		}
 		return $this->render('pg_liunian_access');
-	}
-
-	public function actionA3BaziAccess()
-	{
-		$post = Yii::$app->request->post();
-		if (isset($post['Liunian'])) {
-			$access = $post['Liunian']['access'];
-			if ($access) {
-				$result = AccessBazi::find()->where(['access' => md5($access)])->one();
-				if ($result) {
-					$session = Yii::$app->session;
-					$session->set('liunian_access_code', md5($access));
-					return $this->redirect(['a3-baziliunian']);
-				} else {
-					Yii::$app->session->setFlash('alert', Yii::t('app', 'Access Code Error'));
-					return $this->redirect(Yii::$app->request->referrer ?: Yii::$app->homeUrl);
-				}
-			} else {
-				Yii::$app->session->setFlash('alert', Yii::t('app', 'Access Code Empty'));
-				return $this->redirect(Yii::$app->request->referrer ?: Yii::$app->homeUrl);
-			}
-		}
-		return $this->render('pg_a3_liunian_access');
-	}
-
-	public function actionA3Baziliunian()
-	{
-		var_dump(Yii::$app->controller->action->id);
-		$baziliunian = AccessBazi::find()
-			->select('is_visible, access')
-			->asArray()
-			->one();
-		if ($baziliunian['is_visible'] == 0) {
-			Yii::$app->session->setFlash('alert', Yii::t('app', 'Follow us on facebook for Ba Zi Liu Nian accessible period'));
-			return $this->redirect(Yii::$app->homeUrl);
-		}
-
-		$session = Yii::$app->session;
-		if ($session->has('liunian_access_code')) {
-			if ($baziliunian['access'] != $session->get('liunian_access_code')) {
-				return $this->redirect(['a3-bazi-access']);
-			}
-		} else {
-			return $this->redirect(['a3-bazi-access']);
-		}
-
-		$post = Yii::$app->request->post();
-		if (isset($post['bazi'])) {
-
-			// $uid=15; // 測試
-			$uid     = 12; // 正式
-			$fateurl = 'www.ncc.com.tw';
-			$item    = '龍巖風水八字命盤.奇門.流年1頁';
-			$userip  = Yii::$app->request->getUserIP();
-
-			$bazi          = $post['bazi'];
-			$cname         = $bazi['chinese_name'];
-			$ename         = $bazi['english_name'];
-			$sex           = $bazi['gender'];
-			$calendar_type = $bazi['calendar'];
-
-			// 1=阳历
-			// 0=阴历
-			if ($calendar_type == '1') {
-				$bazi_dt   = implode(",",$bazi['en']);
-				$calendar   = 1;
-				$leap_month = 0;
-			} else {
-				$bazi_dt   = implode(",",$bazi['cn']);
-				$calendar   = 0;
-				$leap_month = empty($bazi['s_month']) ? 0 : 1;
-			}
-
-			$bir = rawurlencode("$cname").rawurlencode("__$ename,$sex,$calendar,$bazi_dt,$leap_month,1");
-			$url = "http://$fateurl/net/fate.php?uid=$uid&lng=utf-8&userip=".$userip."&type=bir&bir=$bir&tzwork=0&item=".rawurlencode($item);
-			var_dump($item);
-			$map = file($url);
-			$map = '<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><div style="width:auto;">'.join('',$map).'</div>';
-			echo $map;
-			exit;
-		}
-		return $this->render('pg_a3_liunian_bazi');
 	}
 
 	public function actionBazireset()

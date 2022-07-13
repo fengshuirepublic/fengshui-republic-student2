@@ -1,18 +1,18 @@
 <?php
 
 return [
-	'http://student.fengshui-republic.com/'       => 'tools/baziliunian',
-	'https://student.fengshui-republic.com/'       => 'tools/baziliunian',
-	'http://student.fengshui-republic.com/access' => 'tools/bazi-access',
-	'https://student.fengshui-republic.com/access' => 'tools/bazi-access',
-	'http://studentreset.fengshui-republic.com/'          => 'tools/bazireset',
-	'https://studentreset.fengshui-republic.com/'          => 'tools/bazireset',
+	// 'http://student.fengshui-republic.com/'       => 'tools/baziliunian',
+	// 'https://student.fengshui-republic.com/'       => 'tools/baziliunian',
+	// 'http://student.fengshui-republic.com/access' => 'tools/bazi-access',
+	// 'https://student.fengshui-republic.com/access' => 'tools/bazi-access',
+	// 'http://studentreset.fengshui-republic.com/'          => 'tools/bazireset',
+	// 'https://studentreset.fengshui-republic.com/'          => 'tools/bazireset',
 
 	/* request form 9.0 */
-	'http://a3.fengshui-republic.com/'       => 'tools/a3-baziliunian',
-	'https://a3.fengshui-republic.com/'       => 'tools/a3-baziliunian',
-	'http://a3.fengshui-republic.com/access' => 'tools/a3-bazi-access',
-	'https://a3.fengshui-republic.com/access' => 'tools/a3-bazi-access',
+	'http://a3.fengshui-republic.com/'       => 'tools/baziliunian',
+	'https://a3.fengshui-republic.com/'       => 'tools/baziliunian',
+	'http://a3.fengshui-republic.com/access' => 'tools/bazi-access',
+	'https://a3.fengshui-republic.com/access' => 'tools/bazi-access',
 
 	/* paypal */
 	'execute-payment/' => 'one-page/execute-payment',
