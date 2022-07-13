@@ -1,0 +1,2040 @@
+2021-09-25 00:04:45 [60.52.123.179][-][-][info][kiple-notify] [
+    'ord_shipname' => 'lim xian yang',
+    'ord_email' => 'xianyang5119@gmail.com',
+    'ord_mercID' => '80006571',
+    'ord_date' => '2021-09-25 00:02:29',
+    'ord_totalamt' => '108',
+    'ord_telephone' => '+60125156727',
+    'ord_mercref' => 'FSRP-19583',
+    'ord_delcharges' => '8.00',
+    'wcID' => '38841898',
+    'returncode' => '100',
+    'ord_key' => '4648ceb7fedd7bba723b576b1da76e9d137697ff',
+]
+2021-09-25 00:04:45 [60.52.123.179][-][-][info][application] $_GET = []
+
+$_POST = [
+    'ord_shipname' => 'lim xian yang'
+    'ord_email' => 'xianyang5119@gmail.com'
+    'ord_mercID' => '80006571'
+    'ord_date' => '2021-09-25 00:02:29'
+    'ord_totalamt' => '108'
+    'ord_telephone' => '+60125156727'
+    'ord_mercref' => 'FSRP-19583'
+    'ord_delcharges' => '8.00'
+    'wcID' => '38841898'
+    'returncode' => '100'
+    'ord_key' => '4648ceb7fedd7bba723b576b1da76e9d137697ff'
+]
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'USER' => 'fengrep'
+    'HOME' => '/home/fengrep'
+    'SCRIPT_NAME' => '/index.php'
+    'REQUEST_URI' => '/products/kiple-return'
+    'QUERY_STRING' => ''
+    'REQUEST_METHOD' => 'POST'
+    'SERVER_PROTOCOL' => 'HTTP/2.0'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'REDIRECT_URL' => '/products/kiple-return'
+    'REMOTE_PORT' => '51607'
+    'SCRIPT_FILENAME' => '/home/fengrep/public_html/web/fengshui-republic/frontend/web/index.php'
+    'SERVER_ADMIN' => 'webmaster@fengshui-republic.com'
+    'CONTEXT_DOCUMENT_ROOT' => '/home/fengrep/public_html/web/fengshui-republic/frontend/web'
+    'CONTEXT_PREFIX' => ''
+    'REQUEST_SCHEME' => 'https'
+    'DOCUMENT_ROOT' => '/home/fengrep/public_html/web/fengshui-republic/frontend/web'
+    'REMOTE_ADDR' => '60.52.123.179'
+    'SERVER_PORT' => '443'
+    'SERVER_ADDR' => '117.53.154.45'
+    'SERVER_NAME' => 'fengshui-republic.com'
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_SIGNATURE' => ''
+    'PATH' => '/usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin'
+    'HTTP_X_HTTPS' => '1'
+    'HTTP_HOST' => 'fengshui-republic.com'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en-US;q=0.9,en;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'https://kiplepay.com/'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_SITE' => 'cross-site'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'HTTP_ORIGIN' => 'https://kiplepay.com'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"Windows\"'
+    'HTTP_SEC_CH_UA_MOBILE' => '?0'
+    'HTTP_SEC_CH_UA' => '\"Chromium\";v=\"94\", \"Google Chrome\";v=\"94\", \";Not A Brand\";v=\"99\"'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'CONTENT_LENGTH' => '281'
+    'proxy-nokeepalive' => '1'
+    'H2_STREAM_TAG' => '206-1'
+    'H2_STREAM_ID' => '1'
+    'H2_PUSHED_ON' => ''
+    'H2_PUSHED' => ''
+    'H2_PUSH' => 'on'
+    'H2PUSH' => 'on'
+    'HTTP2' => 'on'
+    'SSL_TLS_SNI' => 'fengshui-republic.com'
+    'HTTPS' => 'on'
+    'SCRIPT_URI' => 'https://fengshui-republic.com/products/kiple-return'
+    'SCRIPT_URL' => '/products/kiple-return'
+    'UNIQUE_ID' => 'YU33HUgp1F4TlcFhVwmWjQAAzgo'
+    'REDIRECT_STATUS' => '200'
+    'REDIRECT_H2_STREAM_TAG' => '206-1'
+    'REDIRECT_H2_STREAM_ID' => '1'
+    'REDIRECT_H2_PUSHED_ON' => ''
+    'REDIRECT_H2_PUSHED' => ''
+    'REDIRECT_H2_PUSH' => 'on'
+    'REDIRECT_H2PUSH' => 'on'
+    'REDIRECT_HTTP2' => 'on'
+    'REDIRECT_SSL_TLS_SNI' => 'fengshui-republic.com'
+    'REDIRECT_HTTPS' => 'on'
+    'REDIRECT_SCRIPT_URI' => 'https://fengshui-republic.com/products/kiple-return'
+    'REDIRECT_SCRIPT_URL' => '/products/kiple-return'
+    'REDIRECT_UNIQUE_ID' => 'YU33HUgp1F4TlcFhVwmWjQAAzgo'
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1632499485.6095
+    'REQUEST_TIME' => 1632499485
+    'argv' => []
+    'argc' => 0
+]
+2021-10-01 18:50:43 [175.39.141.209][-][-][info][kiple-notify] [
+    'ord_shipname' => 'Moon Chee Keong',
+    'ord_email' => 'wesllieyhtan@gamil.com',
+    'ord_mercID' => '80006571',
+    'ord_date' => '2021-10-01 18:49:54',
+    'ord_totalamt' => '118',
+    'ord_telephone' => '0168308962',
+    'ord_mercref' => 'FSRP-19591',
+    'ord_delcharges' => '18.00',
+    'wcID' => '39178680',
+    'returncode' => '100',
+    'ord_key' => '03e135990875614b04e945f676c70dbeadcd9c6a',
+]
+2021-10-01 18:50:43 [175.39.141.209][-][-][info][application] $_GET = []
+
+$_POST = [
+    'ord_shipname' => 'Moon Chee Keong'
+    'ord_email' => 'wesllieyhtan@gamil.com'
+    'ord_mercID' => '80006571'
+    'ord_date' => '2021-10-01 18:49:54'
+    'ord_totalamt' => '118'
+    'ord_telephone' => '0168308962'
+    'ord_mercref' => 'FSRP-19591'
+    'ord_delcharges' => '18.00'
+    'wcID' => '39178680'
+    'returncode' => '100'
+    'ord_key' => '03e135990875614b04e945f676c70dbeadcd9c6a'
+]
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'USER' => 'fengrep'
+    'HOME' => '/home/fengrep'
+    'SCRIPT_NAME' => '/index.php'
+    'REQUEST_URI' => '/products/kiple-return'
+    'QUERY_STRING' => ''
+    'REQUEST_METHOD' => 'POST'
+    'SERVER_PROTOCOL' => 'HTTP/2.0'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'REDIRECT_URL' => '/products/kiple-return'
+    'REMOTE_PORT' => '58662'
+    'SCRIPT_FILENAME' => '/home/fengrep/public_html/web/fengshui-republic/frontend/web/index.php'
+    'SERVER_ADMIN' => 'webmaster@fengshui-republic.com'
+    'CONTEXT_DOCUMENT_ROOT' => '/home/fengrep/public_html/web/fengshui-republic/frontend/web'
+    'CONTEXT_PREFIX' => ''
+    'REQUEST_SCHEME' => 'https'
+    'DOCUMENT_ROOT' => '/home/fengrep/public_html/web/fengshui-republic/frontend/web'
+    'REMOTE_ADDR' => '175.39.141.209'
+    'SERVER_PORT' => '443'
+    'SERVER_ADDR' => '117.53.154.45'
+    'SERVER_NAME' => 'fengshui-republic.com'
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_SIGNATURE' => ''
+    'PATH' => '/usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin'
+    'HTTP_X_HTTPS' => '1'
+    'HTTP_HOST' => 'fengshui-republic.com'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-AU,en;q=0.9,zh-MO;q=0.8,zh;q=0.7,en-GB;q=0.6,en-US;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'https://kiplepay.com/'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_SITE' => 'cross-site'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'HTTP_ORIGIN' => 'https://kiplepay.com'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"Windows\"'
+    'HTTP_SEC_CH_UA_MOBILE' => '?0'
+    'HTTP_SEC_CH_UA' => '\"Chromium\";v=\"94\", \"Google Chrome\";v=\"94\", \";Not A Brand\";v=\"99\"'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'CONTENT_LENGTH' => '280'
+    'proxy-nokeepalive' => '1'
+    'H2_STREAM_TAG' => '280-1'
+    'H2_STREAM_ID' => '1'
+    'H2_PUSHED_ON' => ''
+    'H2_PUSHED' => ''
+    'H2_PUSH' => 'on'
+    'H2PUSH' => 'on'
+    'HTTP2' => 'on'
+    'SSL_TLS_SNI' => 'fengshui-republic.com'
+    'HTTPS' => 'on'
+    'SCRIPT_URI' => 'https://fengshui-republic.com/products/kiple-return'
+    'SCRIPT_URL' => '/products/kiple-return'
+    'UNIQUE_ID' => 'YVboA-NRpHmo97th6uG-fgABGBI'
+    'REDIRECT_STATUS' => '200'
+    'REDIRECT_H2_STREAM_TAG' => '280-1'
+    'REDIRECT_H2_STREAM_ID' => '1'
+    'REDIRECT_H2_PUSHED_ON' => ''
+    'REDIRECT_H2_PUSHED' => ''
+    'REDIRECT_H2_PUSH' => 'on'
+    'REDIRECT_H2PUSH' => 'on'
+    'REDIRECT_HTTP2' => 'on'
+    'REDIRECT_SSL_TLS_SNI' => 'fengshui-republic.com'
+    'REDIRECT_HTTPS' => 'on'
+    'REDIRECT_SCRIPT_URI' => 'https://fengshui-republic.com/products/kiple-return'
+    'REDIRECT_SCRIPT_URL' => '/products/kiple-return'
+    'REDIRECT_UNIQUE_ID' => 'YVboA-NRpHmo97th6uG-fgABGBI'
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1633085443.6668
+    'REQUEST_TIME' => 1633085443
+    'argv' => []
+    'argc' => 0
+]
+2021-10-01 20:09:13 [180.72.224.39][-][-][info][kiple-notify] [
+    'ord_shipname' => 'Chan Tang Yih',
+    'ord_email' => 'kateteoh0066@gmail.com',
+    'ord_mercID' => '80006571',
+    'ord_date' => '2021-10-01 20:08:05',
+    'ord_totalamt' => '108',
+    'ord_telephone' => '019-266 3288',
+    'ord_mercref' => 'FSRP-19592',
+    'ord_delcharges' => '8.00',
+    'wcID' => '39183388',
+    'returncode' => '100',
+    'ord_key' => 'd131791034f5ff61953b87531e856bbe4a3c3de7',
+]
+2021-10-01 20:09:13 [180.72.224.39][-][-][info][application] $_GET = []
+
+$_POST = [
+    'ord_shipname' => 'Chan Tang Yih'
+    'ord_email' => 'kateteoh0066@gmail.com'
+    'ord_mercID' => '80006571'
+    'ord_date' => '2021-10-01 20:08:05'
+    'ord_totalamt' => '108'
+    'ord_telephone' => '019-266 3288'
+    'ord_mercref' => 'FSRP-19592'
+    'ord_delcharges' => '8.00'
+    'wcID' => '39183388'
+    'returncode' => '100'
+    'ord_key' => 'd131791034f5ff61953b87531e856bbe4a3c3de7'
+]
+
+$_FILES = []
+
+$_COOKIE = [
+    'advanced-frontend' => '83900ab0bb4046117374779920ddc3fa'
+    '_csrf-frontend' => '6b2831e94d929eb78f35eb6720b79a5efe2cf5a5488d4ee60ea886da55ca99cda:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"l0GZPXpRSG-O5YiFODb4TXMr82zKlXJ3\";}'
+    '_fbp' => 'fb.1.1633089771030.760886786'
+    '_ga' => 'GA1.2.706951408.1633089771'
+    '_gid' => 'GA1.2.502897068.1633089771'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'kuh3p'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'USER' => 'fengrep'
+    'HOME' => '/home/fengrep'
+    'SCRIPT_NAME' => '/index.php'
+    'REQUEST_URI' => '/products/kiple-return'
+    'QUERY_STRING' => ''
+    'REQUEST_METHOD' => 'POST'
+    'SERVER_PROTOCOL' => 'HTTP/2.0'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'REDIRECT_URL' => '/products/kiple-return'
+    'REMOTE_PORT' => '44172'
+    'SCRIPT_FILENAME' => '/home/fengrep/public_html/web/fengshui-republic/frontend/web/index.php'
+    'SERVER_ADMIN' => 'webmaster@fengshui-republic.com'
+    'CONTEXT_DOCUMENT_ROOT' => '/home/fengrep/public_html/web/fengshui-republic/frontend/web'
+    'CONTEXT_PREFIX' => ''
+    'REQUEST_SCHEME' => 'https'
+    'DOCUMENT_ROOT' => '/home/fengrep/public_html/web/fengshui-republic/frontend/web'
+    'REMOTE_ADDR' => '180.72.224.39'
+    'SERVER_PORT' => '443'
+    'SERVER_ADDR' => '117.53.154.45'
+    'SERVER_NAME' => 'www.fengshui-republic.com'
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_SIGNATURE' => ''
+    'PATH' => '/usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin'
+    'HTTP_X_HTTPS' => '1'
+    'HTTP_HOST' => 'www.fengshui-republic.com'
+    'HTTP_COOKIE' => 'advanced-frontend=83900ab0bb4046117374779920ddc3fa; _csrf-frontend=6b2831e94d929eb78f35eb6720b79a5efe2cf5a5488d4ee60ea886da55ca99cda%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22l0GZPXpRSG-O5YiFODb4TXMr82zKlXJ3%22%3B%7D; _fbp=fb.1.1633089771030.760886786; _ga=GA1.2.706951408.1633089771; _gid=GA1.2.502897068.1633089771'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'https://kiplepay.com/'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_SITE' => 'cross-site'
+    'HTTP_X_REQUESTED_WITH' => 'com.facebook.katana'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Linux; Android 10; VOG-L29 Build/HUAWEIVOG-L29; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/94.0.4606.71 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/338.1.0.36.118;]'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'HTTP_ORIGIN' => 'https://kiplepay.com'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'CONTENT_LENGTH' => '279'
+    'proxy-nokeepalive' => '1'
+    'H2_STREAM_TAG' => '193-1'
+    'H2_STREAM_ID' => '1'
+    'H2_PUSHED_ON' => ''
+    'H2_PUSHED' => ''
+    'H2_PUSH' => 'on'
+    'H2PUSH' => 'on'
+    'HTTP2' => 'on'
+    'SSL_TLS_SNI' => 'www.fengshui-republic.com'
+    'HTTPS' => 'on'
+    'SCRIPT_URI' => 'https://www.fengshui-republic.com/products/kiple-return'
+    'SCRIPT_URL' => '/products/kiple-return'
+    'UNIQUE_ID' => 'YVb6af-xMFrUYCr6IsNoaQAAwRc'
+    'REDIRECT_STATUS' => '200'
+    'REDIRECT_H2_STREAM_TAG' => '193-1'
+    'REDIRECT_H2_STREAM_ID' => '1'
+    'REDIRECT_H2_PUSHED_ON' => ''
+    'REDIRECT_H2_PUSHED' => ''
+    'REDIRECT_H2_PUSH' => 'on'
+    'REDIRECT_H2PUSH' => 'on'
+    'REDIRECT_HTTP2' => 'on'
+    'REDIRECT_SSL_TLS_SNI' => 'www.fengshui-republic.com'
+    'REDIRECT_HTTPS' => 'on'
+    'REDIRECT_SCRIPT_URI' => 'https://www.fengshui-republic.com/products/kiple-return'
+    'REDIRECT_SCRIPT_URL' => '/products/kiple-return'
+    'REDIRECT_UNIQUE_ID' => 'YVb6af-xMFrUYCr6IsNoaQAAwRc'
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1633090153.9375
+    'REQUEST_TIME' => 1633090153
+    'argv' => []
+    'argc' => 0
+]
+2021-10-01 23:17:03 [165.225.112.78][-][-][info][kiple-notify] [
+    'ord_shipname' => 'Sylvia Gan',
+    'ord_email' => 'smallpig0706@hotmail.com',
+    'ord_mercID' => '80006571',
+    'ord_date' => '2021-10-01 23:14:06',
+    'ord_totalamt' => '138',
+    'ord_telephone' => '+6581013861',
+    'ord_mercref' => 'FSRP-19593',
+    'ord_delcharges' => '38.00',
+    'wcID' => '39189050',
+    'returncode' => '100',
+    'ord_key' => 'c9eb513e1004fb599db743720fa62595396ee379',
+]
+2021-10-01 23:17:03 [165.225.112.78][-][-][info][application] $_GET = []
+
+$_POST = [
+    'ord_shipname' => 'Sylvia Gan'
+    'ord_email' => 'smallpig0706@hotmail.com'
+    'ord_mercID' => '80006571'
+    'ord_date' => '2021-10-01 23:14:06'
+    'ord_totalamt' => '138'
+    'ord_telephone' => '+6581013861'
+    'ord_mercref' => 'FSRP-19593'
+    'ord_delcharges' => '38.00'
+    'wcID' => '39189050'
+    'returncode' => '100'
+    'ord_key' => 'c9eb513e1004fb599db743720fa62595396ee379'
+]
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'USER' => 'fengrep'
+    'HOME' => '/home/fengrep'
+    'SCRIPT_NAME' => '/index.php'
+    'REQUEST_URI' => '/products/kiple-return'
+    'QUERY_STRING' => ''
+    'REQUEST_METHOD' => 'POST'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'REDIRECT_URL' => '/products/kiple-return'
+    'REMOTE_PORT' => '16435'
+    'SCRIPT_FILENAME' => '/home/fengrep/public_html/web/fengshui-republic/frontend/web/index.php'
+    'SERVER_ADMIN' => 'webmaster@fengshui-republic.com'
+    'CONTEXT_DOCUMENT_ROOT' => '/home/fengrep/public_html/web/fengshui-republic/frontend/web'
+    'CONTEXT_PREFIX' => ''
+    'REQUEST_SCHEME' => 'https'
+    'DOCUMENT_ROOT' => '/home/fengrep/public_html/web/fengshui-republic/frontend/web'
+    'REMOTE_ADDR' => '165.225.112.78'
+    'SERVER_PORT' => '443'
+    'SERVER_ADDR' => '117.53.154.45'
+    'SERVER_NAME' => 'fengshui-republic.com'
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_SIGNATURE' => ''
+    'PATH' => '/usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin'
+    'HTTP_X_HTTPS' => '1'
+    'HTTP_X_FORWARDED_FOR' => '138.75.65.88'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'https://kiplepay.com/'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_SITE' => 'cross-site'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'HTTP_ORIGIN' => 'https://kiplepay.com'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"Windows\"'
+    'HTTP_SEC_CH_UA_MOBILE' => '?0'
+    'HTTP_SEC_CH_UA' => '\"Chromium\";v=\"94\", \"Google Chrome\";v=\"94\", \";Not A Brand\";v=\"99\"'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'CONTENT_LENGTH' => '280'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_HOST' => 'fengshui-republic.com'
+    'proxy-nokeepalive' => '1'
+    'SSL_TLS_SNI' => 'fengshui-republic.com'
+    'HTTPS' => 'on'
+    'SCRIPT_URI' => 'https://fengshui-republic.com/products/kiple-return'
+    'SCRIPT_URL' => '/products/kiple-return'
+    'UNIQUE_ID' => 'YVcmb9M6IxZJ35WZ2YfrMQAAAhM'
+    'REDIRECT_STATUS' => '200'
+    'REDIRECT_SSL_TLS_SNI' => 'fengshui-republic.com'
+    'REDIRECT_HTTPS' => 'on'
+    'REDIRECT_SCRIPT_URI' => 'https://fengshui-republic.com/products/kiple-return'
+    'REDIRECT_SCRIPT_URL' => '/products/kiple-return'
+    'REDIRECT_UNIQUE_ID' => 'YVcmb9M6IxZJ35WZ2YfrMQAAAhM'
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1633101423.3639
+    'REQUEST_TIME' => 1633101423
+    'argv' => []
+    'argc' => 0
+]
+2021-10-04 22:17:33 [121.121.57.14][-][-][info][kiple-notify] [
+    'ord_shipname' => 'Martin William ',
+    'ord_email' => 'martin.william.1030@gmail.com',
+    'ord_mercID' => '80006571',
+    'ord_date' => '2021-10-04 22:16:13',
+    'ord_totalamt' => '108',
+    'ord_telephone' => '0123732808',
+    'ord_mercref' => 'FSRP-19595',
+    'ord_delcharges' => '8.00',
+    'wcID' => '39292645',
+    'returncode' => '100',
+    'ord_key' => 'a440446be92bd626ad23b55918160d17fb4e741d',
+]
+2021-10-04 22:17:33 [121.121.57.14][-][-][info][application] $_GET = []
+
+$_POST = [
+    'ord_shipname' => 'Martin William '
+    'ord_email' => 'martin.william.1030@gmail.com'
+    'ord_mercID' => '80006571'
+    'ord_date' => '2021-10-04 22:16:13'
+    'ord_totalamt' => '108'
+    'ord_telephone' => '0123732808'
+    'ord_mercref' => 'FSRP-19595'
+    'ord_delcharges' => '8.00'
+    'wcID' => '39292645'
+    'returncode' => '100'
+    'ord_key' => 'a440446be92bd626ad23b55918160d17fb4e741d'
+]
+
+$_FILES = []
+
+$_COOKIE = [
+    '_ga' => 'GA1.2.1679461566.1633356719'
+    '_gid' => 'GA1.2.1665697971.1633356719'
+    '_fbp' => 'fb.1.1633356719336.1348960480'
+    '_csrf-frontend' => 'ac18825a040c4e095112b9f015511d99b1924be9d9fb3fb0a7d0bfcd0704c6eca:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"7MRHmLCbVC-76LqIiXO9KpDn5u_xUXYk\";}'
+    'advanced-frontend' => 'c7a3392c5dcb07902695853d95afe4c9'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'bqres'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'USER' => 'fengrep'
+    'HOME' => '/home/fengrep'
+    'SCRIPT_NAME' => '/index.php'
+    'REQUEST_URI' => '/products/kiple-return'
+    'QUERY_STRING' => ''
+    'REQUEST_METHOD' => 'POST'
+    'SERVER_PROTOCOL' => 'HTTP/2.0'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'REDIRECT_URL' => '/products/kiple-return'
+    'REMOTE_PORT' => '2302'
+    'SCRIPT_FILENAME' => '/home/fengrep/public_html/web/fengshui-republic/frontend/web/index.php'
+    'SERVER_ADMIN' => 'webmaster@fengshui-republic.com'
+    'CONTEXT_DOCUMENT_ROOT' => '/home/fengrep/public_html/web/fengshui-republic/frontend/web'
+    'CONTEXT_PREFIX' => ''
+    'REQUEST_SCHEME' => 'https'
+    'DOCUMENT_ROOT' => '/home/fengrep/public_html/web/fengshui-republic/frontend/web'
+    'REMOTE_ADDR' => '121.121.57.14'
+    'SERVER_PORT' => '443'
+    'SERVER_ADDR' => '117.53.154.45'
+    'SERVER_NAME' => 'fengshui-republic.com'
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_SIGNATURE' => ''
+    'PATH' => '/usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin'
+    'HTTP_X_HTTPS' => '1'
+    'HTTP_HOST' => 'fengshui-republic.com'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'https://kiplepay.com/gateway/response/CC'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 14_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/94.0.4606.52 Mobile/15E148 Safari/604.1'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-us'
+    'CONTENT_LENGTH' => '286'
+    'HTTP_COOKIE' => '_ga=GA1.2.1679461566.1633356719; _gid=GA1.2.1665697971.1633356719; _fbp=fb.1.1633356719336.1348960480; _csrf-frontend=ac18825a040c4e095112b9f015511d99b1924be9d9fb3fb0a7d0bfcd0704c6eca%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%227MRHmLCbVC-76LqIiXO9KpDn5u_xUXYk%22%3B%7D; advanced-frontend=c7a3392c5dcb07902695853d95afe4c9'
+    'HTTP_ORIGIN' => 'https://kiplepay.com'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'proxy-nokeepalive' => '1'
+    'H2_STREAM_TAG' => '151-1'
+    'H2_STREAM_ID' => '1'
+    'H2_PUSHED_ON' => ''
+    'H2_PUSHED' => ''
+    'H2_PUSH' => 'on'
+    'H2PUSH' => 'on'
+    'HTTP2' => 'on'
+    'SSL_TLS_SNI' => 'fengshui-republic.com'
+    'HTTPS' => 'on'
+    'SCRIPT_URI' => 'https://fengshui-republic.com/products/kiple-return'
+    'SCRIPT_URL' => '/products/kiple-return'
+    'UNIQUE_ID' => 'YVsM_Qabho9jeg1vV5U27QAAlyM'
+    'REDIRECT_STATUS' => '200'
+    'REDIRECT_H2_STREAM_TAG' => '151-1'
+    'REDIRECT_H2_STREAM_ID' => '1'
+    'REDIRECT_H2_PUSHED_ON' => ''
+    'REDIRECT_H2_PUSHED' => ''
+    'REDIRECT_H2_PUSH' => 'on'
+    'REDIRECT_H2PUSH' => 'on'
+    'REDIRECT_HTTP2' => 'on'
+    'REDIRECT_SSL_TLS_SNI' => 'fengshui-republic.com'
+    'REDIRECT_HTTPS' => 'on'
+    'REDIRECT_SCRIPT_URI' => 'https://fengshui-republic.com/products/kiple-return'
+    'REDIRECT_SCRIPT_URL' => '/products/kiple-return'
+    'REDIRECT_UNIQUE_ID' => 'YVsM_Qabho9jeg1vV5U27QAAlyM'
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1633357053.276
+    'REQUEST_TIME' => 1633357053
+    'argv' => []
+    'argc' => 0
+]
+2021-10-12 13:41:33 [183.171.104.223][-][-][info][kiple-notify] [
+    'ord_shipname' => 'NGAN HUI SIAM',
+    'ord_email' => 'huisiamngan@gmail.com',
+    'ord_mercID' => '80006571',
+    'ord_date' => '2021-10-12 13:40:16',
+    'ord_totalamt' => '108',
+    'ord_telephone' => '0197295288',
+    'ord_mercref' => 'FSRP-19600',
+    'ord_delcharges' => '8.00',
+    'wcID' => '39498061',
+    'returncode' => '100',
+    'ord_key' => '90d77d69a0c329a8ee1c53311b989da9cac53064',
+]
+2021-10-12 13:41:33 [183.171.104.223][-][-][info][application] $_GET = []
+
+$_POST = [
+    'ord_shipname' => 'NGAN HUI SIAM'
+    'ord_email' => 'huisiamngan@gmail.com'
+    'ord_mercID' => '80006571'
+    'ord_date' => '2021-10-12 13:40:16'
+    'ord_totalamt' => '108'
+    'ord_telephone' => '0197295288'
+    'ord_mercref' => 'FSRP-19600'
+    'ord_delcharges' => '8.00'
+    'wcID' => '39498061'
+    'returncode' => '100'
+    'ord_key' => '90d77d69a0c329a8ee1c53311b989da9cac53064'
+]
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'USER' => 'fengrep'
+    'HOME' => '/home/fengrep'
+    'SCRIPT_NAME' => '/index.php'
+    'REQUEST_URI' => '/products/kiple-return'
+    'QUERY_STRING' => ''
+    'REQUEST_METHOD' => 'POST'
+    'SERVER_PROTOCOL' => 'HTTP/2.0'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'REDIRECT_URL' => '/products/kiple-return'
+    'REMOTE_PORT' => '33825'
+    'SCRIPT_FILENAME' => '/home/fengrep/public_html/web/fengshui-republic/frontend/web/index.php'
+    'SERVER_ADMIN' => 'webmaster@fengshui-republic.com'
+    'CONTEXT_DOCUMENT_ROOT' => '/home/fengrep/public_html/web/fengshui-republic/frontend/web'
+    'CONTEXT_PREFIX' => ''
+    'REQUEST_SCHEME' => 'https'
+    'DOCUMENT_ROOT' => '/home/fengrep/public_html/web/fengshui-republic/frontend/web'
+    'REMOTE_ADDR' => '183.171.104.223'
+    'SERVER_PORT' => '443'
+    'SERVER_ADDR' => '117.53.154.45'
+    'SERVER_NAME' => 'fengshui-republic.com'
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_SIGNATURE' => ''
+    'PATH' => '/usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin'
+    'HTTP_X_HTTPS' => '1'
+    'HTTP_HOST' => 'fengshui-republic.com'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'https://kiplepay.com/'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_SITE' => 'cross-site'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'HTTP_ORIGIN' => 'https://kiplepay.com'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"Windows\"'
+    'HTTP_SEC_CH_UA_MOBILE' => '?0'
+    'HTTP_SEC_CH_UA' => '\"Chromium\";v=\"94\", \"Google Chrome\";v=\"94\", \";Not A Brand\";v=\"99\"'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'CONTENT_LENGTH' => '276'
+    'proxy-nokeepalive' => '1'
+    'H2_STREAM_TAG' => '267-1'
+    'H2_STREAM_ID' => '1'
+    'H2_PUSHED_ON' => ''
+    'H2_PUSHED' => ''
+    'H2_PUSH' => 'on'
+    'H2PUSH' => 'on'
+    'HTTP2' => 'on'
+    'SSL_TLS_SNI' => 'fengshui-republic.com'
+    'HTTPS' => 'on'
+    'SCRIPT_URI' => 'https://fengshui-republic.com/products/kiple-return'
+    'SCRIPT_URL' => '/products/kiple-return'
+    'UNIQUE_ID' => 'YWUgDbP1mO1HSf6JxpL-CgABCwg'
+    'REDIRECT_STATUS' => '200'
+    'REDIRECT_H2_STREAM_TAG' => '267-1'
+    'REDIRECT_H2_STREAM_ID' => '1'
+    'REDIRECT_H2_PUSHED_ON' => ''
+    'REDIRECT_H2_PUSHED' => ''
+    'REDIRECT_H2_PUSH' => 'on'
+    'REDIRECT_H2PUSH' => 'on'
+    'REDIRECT_HTTP2' => 'on'
+    'REDIRECT_SSL_TLS_SNI' => 'fengshui-republic.com'
+    'REDIRECT_HTTPS' => 'on'
+    'REDIRECT_SCRIPT_URI' => 'https://fengshui-republic.com/products/kiple-return'
+    'REDIRECT_SCRIPT_URL' => '/products/kiple-return'
+    'REDIRECT_UNIQUE_ID' => 'YWUgDbP1mO1HSf6JxpL-CgABCwg'
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1634017293.8054
+    'REQUEST_TIME' => 1634017293
+    'argv' => []
+    'argc' => 0
+]
+2021-10-15 22:23:40 [124.13.11.24][-][-][info][kiple-notify] [
+    'ord_shipname' => 'Dean',
+    'ord_email' => 'dean.yeong@gmail.com',
+    'ord_mercID' => '80006571',
+    'ord_date' => '2021-10-15 22:21:50',
+    'ord_totalamt' => '108',
+    'ord_telephone' => '0128883272',
+    'ord_mercref' => 'FSRP-19605',
+    'ord_delcharges' => '8.00',
+    'wcID' => '39582414',
+    'returncode' => '100',
+    'ord_key' => '8b8d69b65bbaad440ea967290e89ea8891276621',
+]
+    in /home/fengrep/public_html/web/fengshui-republic/frontend/controllers/ProductsController.php:478
+2021-10-15 22:23:40 [124.13.11.24][-][-][info][application] $_GET = []
+
+$_POST = [
+    'ord_shipname' => 'Dean'
+    'ord_email' => 'dean.yeong@gmail.com'
+    'ord_mercID' => '80006571'
+    'ord_date' => '2021-10-15 22:21:50'
+    'ord_totalamt' => '108'
+    'ord_telephone' => '0128883272'
+    'ord_mercref' => 'FSRP-19605'
+    'ord_delcharges' => '8.00'
+    'wcID' => '39582414'
+    'returncode' => '100'
+    'ord_key' => '8b8d69b65bbaad440ea967290e89ea8891276621'
+]
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'USER' => 'fengrep'
+    'HOME' => '/home/fengrep'
+    'SCRIPT_NAME' => '/index.php'
+    'REQUEST_URI' => '/products/kiple-return'
+    'QUERY_STRING' => ''
+    'REQUEST_METHOD' => 'POST'
+    'SERVER_PROTOCOL' => 'HTTP/2.0'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'REDIRECT_URL' => '/products/kiple-return'
+    'REMOTE_PORT' => '63391'
+    'SCRIPT_FILENAME' => '/home/fengrep/public_html/web/fengshui-republic/frontend/web/index.php'
+    'SERVER_ADMIN' => 'webmaster@fengshui-republic.com'
+    'CONTEXT_DOCUMENT_ROOT' => '/home/fengrep/public_html/web/fengshui-republic/frontend/web'
+    'CONTEXT_PREFIX' => ''
+    'REQUEST_SCHEME' => 'https'
+    'DOCUMENT_ROOT' => '/home/fengrep/public_html/web/fengshui-republic/frontend/web'
+    'REMOTE_ADDR' => '124.13.11.24'
+    'SERVER_PORT' => '443'
+    'SERVER_ADDR' => '117.53.154.45'
+    'SERVER_NAME' => 'fengshui-republic.com'
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_SIGNATURE' => ''
+    'PATH' => '/usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin'
+    'HTTP_X_HTTPS' => '1'
+    'HTTP_HOST' => 'fengshui-republic.com'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'https://kiplepay.com/'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_SITE' => 'cross-site'
+    'HTTP_SEC_GPC' => '1'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'HTTP_ORIGIN' => 'https://kiplepay.com'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'CONTENT_LENGTH' => '266'
+    'proxy-nokeepalive' => '1'
+    'H2_STREAM_TAG' => '328-1'
+    'H2_STREAM_ID' => '1'
+    'H2_PUSHED_ON' => ''
+    'H2_PUSHED' => ''
+    'H2_PUSH' => 'on'
+    'H2PUSH' => 'on'
+    'HTTP2' => 'on'
+    'SSL_TLS_SNI' => 'fengshui-republic.com'
+    'HTTPS' => 'on'
+    'SCRIPT_URI' => 'https://fengshui-republic.com/products/kiple-return'
+    'SCRIPT_URL' => '/products/kiple-return'
+    'UNIQUE_ID' => 'YWmO7IPsUbtmZ8_zap2kXAABSBM'
+    'REDIRECT_STATUS' => '200'
+    'REDIRECT_H2_STREAM_TAG' => '328-1'
+    'REDIRECT_H2_STREAM_ID' => '1'
+    'REDIRECT_H2_PUSHED_ON' => ''
+    'REDIRECT_H2_PUSHED' => ''
+    'REDIRECT_H2_PUSH' => 'on'
+    'REDIRECT_H2PUSH' => 'on'
+    'REDIRECT_HTTP2' => 'on'
+    'REDIRECT_SSL_TLS_SNI' => 'fengshui-republic.com'
+    'REDIRECT_HTTPS' => 'on'
+    'REDIRECT_SCRIPT_URI' => 'https://fengshui-republic.com/products/kiple-return'
+    'REDIRECT_SCRIPT_URL' => '/products/kiple-return'
+    'REDIRECT_UNIQUE_ID' => 'YWmO7IPsUbtmZ8_zap2kXAABSBM'
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1634307820.0709
+    'REQUEST_TIME' => 1634307820
+    'argv' => []
+    'argc' => 0
+]
+2021-10-18 13:33:13 [103.4.125.25][-][-][info][kiple-notify] [
+    'ord_shipname' => 'YC OOI',
+    'ord_email' => 'ycooi_90@hotmail.com',
+    'ord_mercID' => '80006571',
+    'ord_date' => '2021-10-18 13:31:05',
+    'ord_totalamt' => '108',
+    'ord_telephone' => '0175507520',
+    'ord_mercref' => 'FSRP-19612',
+    'ord_delcharges' => '8.00',
+    'wcID' => '39632011',
+    'returncode' => '100',
+    'ord_key' => 'bd0d01694b950338a7e3da6ea88b965ab9f987f9',
+]
+    in /home/fengrep/public_html/web/fengshui-republic/frontend/controllers/ProductsController.php:478
+2021-10-18 13:33:13 [103.4.125.25][-][-][info][application] $_GET = []
+
+$_POST = [
+    'ord_shipname' => 'YC OOI'
+    'ord_email' => 'ycooi_90@hotmail.com'
+    'ord_mercID' => '80006571'
+    'ord_date' => '2021-10-18 13:31:05'
+    'ord_totalamt' => '108'
+    'ord_telephone' => '0175507520'
+    'ord_mercref' => 'FSRP-19612'
+    'ord_delcharges' => '8.00'
+    'wcID' => '39632011'
+    'returncode' => '100'
+    'ord_key' => 'bd0d01694b950338a7e3da6ea88b965ab9f987f9'
+]
+
+$_FILES = []
+
+$_COOKIE = [
+    'advanced-frontend' => '1e2cf0b0f3594f73acba9e72c6e97686'
+    '_csrf-frontend' => '89fbe35b5e169239fc7d02ce63b61a0bb1310fff8f01bcdbd21a7b573602ba23a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"_owGVNxUPztmFPiBrcSimm7M0augann7\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 't2pzq'
+    '__captcha/site/captchacount' => 1
+    '__returnUrl' => '/flying-star'
+    '__id' => 42618
+    '__expire' => 1634541947
+]
+
+$_SERVER = [
+    'USER' => 'fengrep'
+    'HOME' => '/home/fengrep'
+    'SCRIPT_NAME' => '/index.php'
+    'REQUEST_URI' => '/products/kiple-return'
+    'QUERY_STRING' => ''
+    'REQUEST_METHOD' => 'POST'
+    'SERVER_PROTOCOL' => 'HTTP/2.0'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'REDIRECT_URL' => '/products/kiple-return'
+    'REMOTE_PORT' => '50300'
+    'SCRIPT_FILENAME' => '/home/fengrep/public_html/web/fengshui-republic/frontend/web/index.php'
+    'SERVER_ADMIN' => 'webmaster@fengshui-republic.com'
+    'CONTEXT_DOCUMENT_ROOT' => '/home/fengrep/public_html/web/fengshui-republic/frontend/web'
+    'CONTEXT_PREFIX' => ''
+    'REQUEST_SCHEME' => 'https'
+    'DOCUMENT_ROOT' => '/home/fengrep/public_html/web/fengshui-republic/frontend/web'
+    'REMOTE_ADDR' => '103.4.125.25'
+    'SERVER_PORT' => '443'
+    'SERVER_ADDR' => '117.53.154.45'
+    'SERVER_NAME' => 'fengshui-republic.com'
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_SIGNATURE' => ''
+    'PATH' => '/usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin'
+    'HTTP_X_HTTPS' => '1'
+    'HTTP_HOST' => 'fengshui-republic.com'
+    'HTTP_TE' => 'trailers'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_COOKIE' => 'advanced-frontend=1e2cf0b0f3594f73acba9e72c6e97686; _csrf-frontend=89fbe35b5e169239fc7d02ce63b61a0bb1310fff8f01bcdbd21a7b573602ba23a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22_owGVNxUPztmFPiBrcSimm7M0augann7%22%3B%7D'
+    'HTTP_DNT' => '1'
+    'CONTENT_LENGTH' => '268'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'HTTP_REFERER' => 'https://kiplepay.com/gateway/response/CC'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0'
+    'proxy-nokeepalive' => '1'
+    'H2_STREAM_TAG' => '129-15'
+    'H2_STREAM_ID' => '15'
+    'H2_PUSHED_ON' => ''
+    'H2_PUSHED' => ''
+    'H2_PUSH' => 'on'
+    'H2PUSH' => 'on'
+    'HTTP2' => 'on'
+    'SSL_TLS_SNI' => 'fengshui-republic.com'
+    'HTTPS' => 'on'
+    'SCRIPT_URI' => 'https://fengshui-republic.com/products/kiple-return'
+    'SCRIPT_URL' => '/products/kiple-return'
+    'UNIQUE_ID' => 'YW0HGc33EUxK-Q9my4kFwgAAgRU'
+    'REDIRECT_STATUS' => '200'
+    'REDIRECT_H2_STREAM_TAG' => '129-15'
+    'REDIRECT_H2_STREAM_ID' => '15'
+    'REDIRECT_H2_PUSHED_ON' => ''
+    'REDIRECT_H2_PUSHED' => ''
+    'REDIRECT_H2_PUSH' => 'on'
+    'REDIRECT_H2PUSH' => 'on'
+    'REDIRECT_HTTP2' => 'on'
+    'REDIRECT_SSL_TLS_SNI' => 'fengshui-republic.com'
+    'REDIRECT_HTTPS' => 'on'
+    'REDIRECT_SCRIPT_URI' => 'https://fengshui-republic.com/products/kiple-return'
+    'REDIRECT_SCRIPT_URL' => '/products/kiple-return'
+    'REDIRECT_UNIQUE_ID' => 'YW0HGc33EUxK-Q9my4kFwgAAgRU'
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1634535193.0987
+    'REQUEST_TIME' => 1634535193
+    'argv' => []
+    'argc' => 0
+]
+2021-10-19 15:29:20 [60.50.51.23][-][-][info][kiple-notify] [
+    'ord_shipname' => 'Heng Cheng Huai',
+    'ord_email' => 'hengchenghuai@gmail.com',
+    'ord_mercID' => '80006571',
+    'ord_date' => '2021-10-19 15:25:43',
+    'ord_totalamt' => '108',
+    'ord_telephone' => '0166255993',
+    'ord_mercref' => 'FSRP-19616',
+    'ord_delcharges' => '8.00',
+    'wcID' => '39657570',
+    'returncode' => '100',
+    'ord_key' => '38829d67a4999a3ba384eeb95209bacd19c315c4',
+]
+    in /home/fengrep/public_html/web/fengshui-republic/frontend/controllers/ProductsController.php:478
+2021-10-19 15:29:20 [60.50.51.23][-][-][info][application] $_GET = []
+
+$_POST = [
+    'ord_shipname' => 'Heng Cheng Huai'
+    'ord_email' => 'hengchenghuai@gmail.com'
+    'ord_mercID' => '80006571'
+    'ord_date' => '2021-10-19 15:25:43'
+    'ord_totalamt' => '108'
+    'ord_telephone' => '0166255993'
+    'ord_mercref' => 'FSRP-19616'
+    'ord_delcharges' => '8.00'
+    'wcID' => '39657570'
+    'returncode' => '100'
+    'ord_key' => '38829d67a4999a3ba384eeb95209bacd19c315c4'
+]
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'USER' => 'fengrep'
+    'HOME' => '/home/fengrep'
+    'SCRIPT_NAME' => '/index.php'
+    'REQUEST_URI' => '/products/kiple-return'
+    'QUERY_STRING' => ''
+    'REQUEST_METHOD' => 'POST'
+    'SERVER_PROTOCOL' => 'HTTP/2.0'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'REDIRECT_URL' => '/products/kiple-return'
+    'REMOTE_PORT' => '50308'
+    'SCRIPT_FILENAME' => '/home/fengrep/public_html/web/fengshui-republic/frontend/web/index.php'
+    'SERVER_ADMIN' => 'webmaster@fengshui-republic.com'
+    'CONTEXT_DOCUMENT_ROOT' => '/home/fengrep/public_html/web/fengshui-republic/frontend/web'
+    'CONTEXT_PREFIX' => ''
+    'REQUEST_SCHEME' => 'https'
+    'DOCUMENT_ROOT' => '/home/fengrep/public_html/web/fengshui-republic/frontend/web'
+    'REMOTE_ADDR' => '60.50.51.23'
+    'SERVER_PORT' => '443'
+    'SERVER_ADDR' => '117.53.154.45'
+    'SERVER_NAME' => 'www.fengshui-republic.com'
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_SIGNATURE' => ''
+    'PATH' => '/usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin'
+    'HTTP_X_HTTPS' => '1'
+    'HTTP_HOST' => 'www.fengshui-republic.com'
+    'HTTP_ACCEPT_LANGUAGE' => 'en'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'https://kiplepay.com/'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_SITE' => 'cross-site'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'HTTP_ORIGIN' => 'https://kiplepay.com'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"Windows\"'
+    'HTTP_SEC_CH_UA_MOBILE' => '?0'
+    'HTTP_SEC_CH_UA' => '\"Chromium\";v=\"94\", \"Google Chrome\";v=\"94\", \";Not A Brand\";v=\"99\"'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'CONTENT_LENGTH' => '280'
+    'proxy-nokeepalive' => '1'
+    'H2_STREAM_TAG' => '196-1'
+    'H2_STREAM_ID' => '1'
+    'H2_PUSHED_ON' => ''
+    'H2_PUSHED' => ''
+    'H2_PUSH' => 'on'
+    'H2PUSH' => 'on'
+    'HTTP2' => 'on'
+    'SSL_TLS_SNI' => 'www.fengshui-republic.com'
+    'HTTPS' => 'on'
+    'SCRIPT_URI' => 'https://www.fengshui-republic.com/products/kiple-return'
+    'SCRIPT_URL' => '/products/kiple-return'
+    'UNIQUE_ID' => 'YW5z0EbGf_O94v7ujHOtEgAAxAw'
+    'REDIRECT_STATUS' => '200'
+    'REDIRECT_H2_STREAM_TAG' => '196-1'
+    'REDIRECT_H2_STREAM_ID' => '1'
+    'REDIRECT_H2_PUSHED_ON' => ''
+    'REDIRECT_H2_PUSHED' => ''
+    'REDIRECT_H2_PUSH' => 'on'
+    'REDIRECT_H2PUSH' => 'on'
+    'REDIRECT_HTTP2' => 'on'
+    'REDIRECT_SSL_TLS_SNI' => 'www.fengshui-republic.com'
+    'REDIRECT_HTTPS' => 'on'
+    'REDIRECT_SCRIPT_URI' => 'https://www.fengshui-republic.com/products/kiple-return'
+    'REDIRECT_SCRIPT_URL' => '/products/kiple-return'
+    'REDIRECT_UNIQUE_ID' => 'YW5z0EbGf_O94v7ujHOtEgAAxAw'
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1634628560.3447
+    'REQUEST_TIME' => 1634628560
+    'argv' => []
+    'argc' => 0
+]
+2021-10-20 18:05:41 [14.192.217.145][-][-][info][kiple-notify] [
+    'ord_shipname' => 'Kay',
+    'ord_email' => 'kayli.official@hotmail.com',
+    'ord_mercID' => '80006571',
+    'ord_date' => '2021-10-20 18:04:38',
+    'ord_totalamt' => '108',
+    'ord_telephone' => '0149313725',
+    'ord_mercref' => 'FSRP-19618',
+    'ord_delcharges' => '8.00',
+    'wcID' => '39682551',
+    'returncode' => '100',
+    'ord_key' => 'e6faeccd8a0d42e7651e08303f58c14fc41eaecb',
+]
+    in /home/fengrep/public_html/web/fengshui-republic/frontend/controllers/ProductsController.php:478
+2021-10-20 18:05:41 [14.192.217.145][-][-][info][application] $_GET = []
+
+$_POST = [
+    'ord_shipname' => 'Kay'
+    'ord_email' => 'kayli.official@hotmail.com'
+    'ord_mercID' => '80006571'
+    'ord_date' => '2021-10-20 18:04:38'
+    'ord_totalamt' => '108'
+    'ord_telephone' => '0149313725'
+    'ord_mercref' => 'FSRP-19618'
+    'ord_delcharges' => '8.00'
+    'wcID' => '39682551'
+    'returncode' => '100'
+    'ord_key' => 'e6faeccd8a0d42e7651e08303f58c14fc41eaecb'
+]
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'USER' => 'fengrep'
+    'HOME' => '/home/fengrep'
+    'SCRIPT_NAME' => '/index.php'
+    'REQUEST_URI' => '/products/kiple-return'
+    'QUERY_STRING' => ''
+    'REQUEST_METHOD' => 'POST'
+    'SERVER_PROTOCOL' => 'HTTP/2.0'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'REDIRECT_URL' => '/products/kiple-return'
+    'REMOTE_PORT' => '4627'
+    'SCRIPT_FILENAME' => '/home/fengrep/public_html/web/fengshui-republic/frontend/web/index.php'
+    'SERVER_ADMIN' => 'webmaster@fengshui-republic.com'
+    'CONTEXT_DOCUMENT_ROOT' => '/home/fengrep/public_html/web/fengshui-republic/frontend/web'
+    'CONTEXT_PREFIX' => ''
+    'REQUEST_SCHEME' => 'https'
+    'DOCUMENT_ROOT' => '/home/fengrep/public_html/web/fengshui-republic/frontend/web'
+    'REMOTE_ADDR' => '14.192.217.145'
+    'SERVER_PORT' => '443'
+    'SERVER_ADDR' => '117.53.154.45'
+    'SERVER_NAME' => 'fengshui-republic.com'
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_SIGNATURE' => ''
+    'PATH' => '/usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin'
+    'HTTP_X_HTTPS' => '1'
+    'HTTP_HOST' => 'fengshui-republic.com'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'https://kiplepay.com/'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_SITE' => 'cross-site'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Linux; Android 11; CPH1917) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.85 Mobile Safari/537.36'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'HTTP_ORIGIN' => 'https://kiplepay.com'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"Android\"'
+    'HTTP_SEC_CH_UA_MOBILE' => '?1'
+    'HTTP_SEC_CH_UA' => '\"Chromium\";v=\"94\", \"Google Chrome\";v=\"94\", \";Not A Brand\";v=\"99\"'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'CONTENT_LENGTH' => '271'
+    'proxy-nokeepalive' => '1'
+    'H2_STREAM_TAG' => '404-1'
+    'H2_STREAM_ID' => '1'
+    'H2_PUSHED_ON' => ''
+    'H2_PUSHED' => ''
+    'H2_PUSH' => 'on'
+    'H2PUSH' => 'on'
+    'HTTP2' => 'on'
+    'SSL_TLS_SNI' => 'fengshui-republic.com'
+    'HTTPS' => 'on'
+    'SCRIPT_URI' => 'https://fengshui-republic.com/products/kiple-return'
+    'SCRIPT_URL' => '/products/kiple-return'
+    'UNIQUE_ID' => 'YW_p9YNFlnjAqYzjTnnlPgABlAs'
+    'REDIRECT_STATUS' => '200'
+    'REDIRECT_H2_STREAM_TAG' => '404-1'
+    'REDIRECT_H2_STREAM_ID' => '1'
+    'REDIRECT_H2_PUSHED_ON' => ''
+    'REDIRECT_H2_PUSHED' => ''
+    'REDIRECT_H2_PUSH' => 'on'
+    'REDIRECT_H2PUSH' => 'on'
+    'REDIRECT_HTTP2' => 'on'
+    'REDIRECT_SSL_TLS_SNI' => 'fengshui-republic.com'
+    'REDIRECT_HTTPS' => 'on'
+    'REDIRECT_SCRIPT_URI' => 'https://fengshui-republic.com/products/kiple-return'
+    'REDIRECT_SCRIPT_URL' => '/products/kiple-return'
+    'REDIRECT_UNIQUE_ID' => 'YW_p9YNFlnjAqYzjTnnlPgABlAs'
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1634724341.7694
+    'REQUEST_TIME' => 1634724341
+    'argv' => []
+    'argc' => 0
+]
+2021-10-26 08:13:40 [124.13.212.209][-][-][info][kiple-notify] [
+    'ord_shipname' => 'ng lay yian',
+    'ord_email' => 'leanne_yian@hotmail.com',
+    'ord_mercID' => '80006571',
+    'ord_date' => '2021-10-26 08:10:29',
+    'ord_totalamt' => '38',
+    'ord_telephone' => '0165368939',
+    'ord_mercref' => 'FSRP-19622',
+    'ord_delcharges' => '0.00',
+    'wcID' => '39807020',
+    'returncode' => '100',
+    'ord_key' => 'ba438808adcda575f2abbf1027c79610740177d2',
+]
+    in /home/fengrep/public_html/web/fengshui-republic/frontend/controllers/ProductsController.php:478
+2021-10-26 08:13:40 [124.13.212.209][-][-][info][application] $_GET = []
+
+$_POST = [
+    'ord_shipname' => 'ng lay yian'
+    'ord_email' => 'leanne_yian@hotmail.com'
+    'ord_mercID' => '80006571'
+    'ord_date' => '2021-10-26 08:10:29'
+    'ord_totalamt' => '38'
+    'ord_telephone' => '0165368939'
+    'ord_mercref' => 'FSRP-19622'
+    'ord_delcharges' => '0.00'
+    'wcID' => '39807020'
+    'returncode' => '100'
+    'ord_key' => 'ba438808adcda575f2abbf1027c79610740177d2'
+]
+
+$_FILES = []
+
+$_COOKIE = [
+    '_fbp' => 'fb.1.1634611480478.142854580'
+    '_ga' => 'GA1.2.1825450488.1634539404'
+    '_gid' => 'GA1.2.162176907.1635206538'
+    '_csrf-frontend' => 'bad8805b515b80ef8cc9070ac3cf2e97b944a7836bd70c4ad04b850d9d2efdbaa:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"jD4lRT8kK87i6brQGsZAW8TXsXQhN6dR\";}'
+    'advanced-frontend' => 'c364fbc44fb60ebb2d4be4d9032cd86a'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'q9cwy'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'USER' => 'fengrep'
+    'HOME' => '/home/fengrep'
+    'SCRIPT_NAME' => '/index.php'
+    'REQUEST_URI' => '/products/kiple-return'
+    'QUERY_STRING' => ''
+    'REQUEST_METHOD' => 'POST'
+    'SERVER_PROTOCOL' => 'HTTP/2.0'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'REDIRECT_URL' => '/products/kiple-return'
+    'REMOTE_PORT' => '25473'
+    'SCRIPT_FILENAME' => '/home/fengrep/public_html/web/fengshui-republic/frontend/web/index.php'
+    'SERVER_ADMIN' => 'webmaster@fengshui-republic.com'
+    'CONTEXT_DOCUMENT_ROOT' => '/home/fengrep/public_html/web/fengshui-republic/frontend/web'
+    'CONTEXT_PREFIX' => ''
+    'REQUEST_SCHEME' => 'https'
+    'DOCUMENT_ROOT' => '/home/fengrep/public_html/web/fengshui-republic/frontend/web'
+    'REMOTE_ADDR' => '124.13.212.209'
+    'SERVER_PORT' => '443'
+    'SERVER_ADDR' => '117.53.154.45'
+    'SERVER_NAME' => 'fengshui-republic.com'
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_SIGNATURE' => ''
+    'PATH' => '/usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin'
+    'HTTP_X_HTTPS' => '1'
+    'HTTP_HOST' => 'fengshui-republic.com'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'https://kiplepay.com/fpx/indirect.php'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-us'
+    'CONTENT_LENGTH' => '275'
+    'HTTP_COOKIE' => '_fbp=fb.1.1634611480478.142854580; _ga=GA1.2.1825450488.1634539404; _gid=GA1.2.162176907.1635206538; _csrf-frontend=bad8805b515b80ef8cc9070ac3cf2e97b944a7836bd70c4ad04b850d9d2efdbaa%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22jD4lRT8kK87i6brQGsZAW8TXsXQhN6dR%22%3B%7D; advanced-frontend=c364fbc44fb60ebb2d4be4d9032cd86a'
+    'HTTP_ORIGIN' => 'https://kiplepay.com'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'proxy-nokeepalive' => '1'
+    'H2_STREAM_TAG' => '265-1'
+    'H2_STREAM_ID' => '1'
+    'H2_PUSHED_ON' => ''
+    'H2_PUSHED' => ''
+    'H2_PUSH' => 'on'
+    'H2PUSH' => 'on'
+    'HTTP2' => 'on'
+    'SSL_TLS_SNI' => 'fengshui-republic.com'
+    'HTTPS' => 'on'
+    'SCRIPT_URI' => 'https://fengshui-republic.com/products/kiple-return'
+    'SCRIPT_URL' => '/products/kiple-return'
+    'UNIQUE_ID' => 'YXdINDiPSL7zSWNPzzz6dgABCQQ'
+    'REDIRECT_STATUS' => '200'
+    'REDIRECT_H2_STREAM_TAG' => '265-1'
+    'REDIRECT_H2_STREAM_ID' => '1'
+    'REDIRECT_H2_PUSHED_ON' => ''
+    'REDIRECT_H2_PUSHED' => ''
+    'REDIRECT_H2_PUSH' => 'on'
+    'REDIRECT_H2PUSH' => 'on'
+    'REDIRECT_HTTP2' => 'on'
+    'REDIRECT_SSL_TLS_SNI' => 'fengshui-republic.com'
+    'REDIRECT_HTTPS' => 'on'
+    'REDIRECT_SCRIPT_URI' => 'https://fengshui-republic.com/products/kiple-return'
+    'REDIRECT_SCRIPT_URL' => '/products/kiple-return'
+    'REDIRECT_UNIQUE_ID' => 'YXdINDiPSL7zSWNPzzz6dgABCQQ'
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1635207220.4693
+    'REQUEST_TIME' => 1635207220
+    'argv' => []
+    'argc' => 0
+]
+2021-10-26 08:55:08 [113.210.115.22][-][-][info][kiple-notify] [
+    'ord_shipname' => 'Gan Lei Chuin',
+    'ord_email' => 'chuin_1101@hotmail.com',
+    'ord_mercID' => '80006571',
+    'ord_date' => '2021-10-26 08:53:51',
+    'ord_totalamt' => '108',
+    'ord_telephone' => '0137931555',
+    'ord_mercref' => 'FSRP-19623',
+    'ord_delcharges' => '8.00',
+    'wcID' => '39807492',
+    'returncode' => '100',
+    'ord_key' => 'adfda0c65973b3e2753f354c9d96998ff9e00fb4',
+]
+    in /home/fengrep/public_html/web/fengshui-republic/frontend/controllers/ProductsController.php:478
+2021-10-26 08:55:08 [113.210.115.22][-][-][info][application] $_GET = []
+
+$_POST = [
+    'ord_shipname' => 'Gan Lei Chuin'
+    'ord_email' => 'chuin_1101@hotmail.com'
+    'ord_mercID' => '80006571'
+    'ord_date' => '2021-10-26 08:53:51'
+    'ord_totalamt' => '108'
+    'ord_telephone' => '0137931555'
+    'ord_mercref' => 'FSRP-19623'
+    'ord_delcharges' => '8.00'
+    'wcID' => '39807492'
+    'returncode' => '100'
+    'ord_key' => 'adfda0c65973b3e2753f354c9d96998ff9e00fb4'
+]
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'USER' => 'fengrep'
+    'HOME' => '/home/fengrep'
+    'SCRIPT_NAME' => '/index.php'
+    'REQUEST_URI' => '/products/kiple-return'
+    'QUERY_STRING' => ''
+    'REQUEST_METHOD' => 'POST'
+    'SERVER_PROTOCOL' => 'HTTP/2.0'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'REDIRECT_URL' => '/products/kiple-return'
+    'REMOTE_PORT' => '8082'
+    'SCRIPT_FILENAME' => '/home/fengrep/public_html/web/fengshui-republic/frontend/web/index.php'
+    'SERVER_ADMIN' => 'webmaster@fengshui-republic.com'
+    'CONTEXT_DOCUMENT_ROOT' => '/home/fengrep/public_html/web/fengshui-republic/frontend/web'
+    'CONTEXT_PREFIX' => ''
+    'REQUEST_SCHEME' => 'https'
+    'DOCUMENT_ROOT' => '/home/fengrep/public_html/web/fengshui-republic/frontend/web'
+    'REMOTE_ADDR' => '113.210.115.22'
+    'SERVER_PORT' => '443'
+    'SERVER_ADDR' => '117.53.154.45'
+    'SERVER_NAME' => 'fengshui-republic.com'
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_SIGNATURE' => ''
+    'PATH' => '/usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin'
+    'HTTP_X_HTTPS' => '1'
+    'HTTP_HOST' => 'fengshui-republic.com'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en;q=0.9,en-US;q=0.8,zh-CN;q=0.7,zh;q=0.6,ms;q=0.5,zh-TW;q=0.4'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'https://kiplepay.com/'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_SITE' => 'cross-site'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Linux; Android 9; SM-N950F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.50 Mobile Safari/537.36'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'HTTP_ORIGIN' => 'https://kiplepay.com'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"Android\"'
+    'HTTP_SEC_CH_UA_MOBILE' => '?1'
+    'HTTP_SEC_CH_UA' => '\"Google Chrome\";v=\"95\", \"Chromium\";v=\"95\", \";Not A Brand\";v=\"99\"'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'CONTENT_LENGTH' => '277'
+    'proxy-nokeepalive' => '1'
+    'H2_STREAM_TAG' => '391-1'
+    'H2_STREAM_ID' => '1'
+    'H2_PUSHED_ON' => ''
+    'H2_PUSHED' => ''
+    'H2_PUSH' => 'on'
+    'H2PUSH' => 'on'
+    'HTTP2' => 'on'
+    'SSL_TLS_SNI' => 'fengshui-republic.com'
+    'HTTPS' => 'on'
+    'SCRIPT_URI' => 'https://fengshui-republic.com/products/kiple-return'
+    'SCRIPT_URL' => '/products/kiple-return'
+    'UNIQUE_ID' => 'YXdR7IfVnzrg9mL4f6mflQABhxY'
+    'REDIRECT_STATUS' => '200'
+    'REDIRECT_H2_STREAM_TAG' => '391-1'
+    'REDIRECT_H2_STREAM_ID' => '1'
+    'REDIRECT_H2_PUSHED_ON' => ''
+    'REDIRECT_H2_PUSHED' => ''
+    'REDIRECT_H2_PUSH' => 'on'
+    'REDIRECT_H2PUSH' => 'on'
+    'REDIRECT_HTTP2' => 'on'
+    'REDIRECT_SSL_TLS_SNI' => 'fengshui-republic.com'
+    'REDIRECT_HTTPS' => 'on'
+    'REDIRECT_SCRIPT_URI' => 'https://fengshui-republic.com/products/kiple-return'
+    'REDIRECT_SCRIPT_URL' => '/products/kiple-return'
+    'REDIRECT_UNIQUE_ID' => 'YXdR7IfVnzrg9mL4f6mflQABhxY'
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1635209708.1815
+    'REQUEST_TIME' => 1635209708
+    'argv' => []
+    'argc' => 0
+]
+2021-10-31 13:41:07 [155.69.180.252][-][-][info][kiple-notify] [
+    'ord_shipname' => 'David Lim',
+    'ord_email' => 'linyogi2020@gmail.com',
+    'ord_mercID' => '80006571',
+    'ord_date' => '2021-10-31 13:39:08',
+    'ord_totalamt' => '71.6',
+    'ord_telephone' => '+6596779048',
+    'ord_mercref' => 'FSRP-19625',
+    'ord_delcharges' => '38.00',
+    'wcID' => '39933122',
+    'returncode' => '100',
+    'ord_key' => '61aee37fe76ca4fd8dd06a66037183e44d4a5150',
+]
+    in /home/fengrep/public_html/web/fengshui-republic/frontend/controllers/ProductsController.php:478
+2021-10-31 13:41:07 [155.69.180.252][-][-][info][application] $_GET = []
+
+$_POST = [
+    'ord_shipname' => 'David Lim'
+    'ord_email' => 'linyogi2020@gmail.com'
+    'ord_mercID' => '80006571'
+    'ord_date' => '2021-10-31 13:39:08'
+    'ord_totalamt' => '71.6'
+    'ord_telephone' => '+6596779048'
+    'ord_mercref' => 'FSRP-19625'
+    'ord_delcharges' => '38.00'
+    'wcID' => '39933122'
+    'returncode' => '100'
+    'ord_key' => '61aee37fe76ca4fd8dd06a66037183e44d4a5150'
+]
+
+$_FILES = []
+
+$_COOKIE = [
+    'advanced-frontend' => '26af4bee40c96105a725feae461193da'
+    '_csrf-frontend' => 'cd78dfefb9c97ed76de15a6b32fd49b033f7e23b3be7b396ee81531179f705f8a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"648yDaHMEeqFWH1jhJ26jaiiUKxKcAUw\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'c7den'
+    '__captcha/site/captchacount' => 1
+    '__id' => 28381
+    '__expire' => 1635665398
+]
+
+$_SERVER = [
+    'USER' => 'fengrep'
+    'HOME' => '/home/fengrep'
+    'SCRIPT_NAME' => '/index.php'
+    'REQUEST_URI' => '/products/kiple-return'
+    'QUERY_STRING' => ''
+    'REQUEST_METHOD' => 'POST'
+    'SERVER_PROTOCOL' => 'HTTP/2.0'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'REDIRECT_URL' => '/products/kiple-return'
+    'REMOTE_PORT' => '16435'
+    'SCRIPT_FILENAME' => '/home/fengrep/public_html/web/fengshui-republic/frontend/web/index.php'
+    'SERVER_ADMIN' => 'webmaster@fengshui-republic.com'
+    'CONTEXT_DOCUMENT_ROOT' => '/home/fengrep/public_html/web/fengshui-republic/frontend/web'
+    'CONTEXT_PREFIX' => ''
+    'REQUEST_SCHEME' => 'https'
+    'DOCUMENT_ROOT' => '/home/fengrep/public_html/web/fengshui-republic/frontend/web'
+    'REMOTE_ADDR' => '155.69.180.252'
+    'SERVER_PORT' => '443'
+    'SERVER_ADDR' => '117.53.154.45'
+    'SERVER_NAME' => 'fengshui-republic.com'
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_SIGNATURE' => ''
+    'PATH' => '/usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin'
+    'HTTP_X_HTTPS' => '1'
+    'HTTP_HOST' => 'fengshui-republic.com'
+    'HTTP_TE' => 'trailers'
+    'HTTP_SEC_FETCH_SITE' => 'cross-site'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_COOKIE' => 'advanced-frontend=26af4bee40c96105a725feae461193da; _csrf-frontend=cd78dfefb9c97ed76de15a6b32fd49b033f7e23b3be7b396ee81531179f705f8a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22648yDaHMEeqFWH1jhJ26jaiiUKxKcAUw%22%3B%7D'
+    'HTTP_REFERER' => 'https://kiplepay.com/'
+    'HTTP_DNT' => '1'
+    'HTTP_ORIGIN' => 'https://kiplepay.com'
+    'CONTENT_LENGTH' => '277'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0'
+    'proxy-nokeepalive' => '1'
+    'H2_STREAM_TAG' => '78-15'
+    'H2_STREAM_ID' => '15'
+    'H2_PUSHED_ON' => ''
+    'H2_PUSHED' => ''
+    'H2_PUSH' => 'on'
+    'H2PUSH' => 'on'
+    'HTTP2' => 'on'
+    'SSL_TLS_SNI' => 'fengshui-republic.com'
+    'HTTPS' => 'on'
+    'SCRIPT_URI' => 'https://fengshui-republic.com/products/kiple-return'
+    'SCRIPT_URL' => '/products/kiple-return'
+    'UNIQUE_ID' => 'YX4sc417lalvn6sjiZ9HgwAAThg'
+    'REDIRECT_STATUS' => '200'
+    'REDIRECT_H2_STREAM_TAG' => '78-15'
+    'REDIRECT_H2_STREAM_ID' => '15'
+    'REDIRECT_H2_PUSHED_ON' => ''
+    'REDIRECT_H2_PUSHED' => ''
+    'REDIRECT_H2_PUSH' => 'on'
+    'REDIRECT_H2PUSH' => 'on'
+    'REDIRECT_HTTP2' => 'on'
+    'REDIRECT_SSL_TLS_SNI' => 'fengshui-republic.com'
+    'REDIRECT_HTTPS' => 'on'
+    'REDIRECT_SCRIPT_URI' => 'https://fengshui-republic.com/products/kiple-return'
+    'REDIRECT_SCRIPT_URL' => '/products/kiple-return'
+    'REDIRECT_UNIQUE_ID' => 'YX4sc417lalvn6sjiZ9HgwAAThg'
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1635658867.714
+    'REQUEST_TIME' => 1635658867
+    'argv' => []
+    'argc' => 0
+]
+2021-11-04 17:19:33 [210.186.134.97][-][-][info][kiple-notify] [
+    'ord_shipname' => 'Huanqi',
+    'ord_email' => 'hiteo24@hotmail.com',
+    'ord_mercID' => '80006571',
+    'ord_date' => '2021-11-04 17:16:31',
+    'ord_totalamt' => '108',
+    'ord_telephone' => '0124741948',
+    'ord_mercref' => 'FSRP-19628',
+    'ord_delcharges' => '8.00',
+    'wcID' => '40238955',
+    'returncode' => '100',
+    'ord_key' => '0db7243d10ff727215201802fd6860651168aa8f',
+]
+    in /home/fengrep/public_html/web/fengshui-republic/frontend/controllers/ProductsController.php:478
+2021-11-04 17:19:33 [210.186.134.97][-][-][info][application] $_GET = []
+
+$_POST = [
+    'ord_shipname' => 'Huanqi'
+    'ord_email' => 'hiteo24@hotmail.com'
+    'ord_mercID' => '80006571'
+    'ord_date' => '2021-11-04 17:16:31'
+    'ord_totalamt' => '108'
+    'ord_telephone' => '0124741948'
+    'ord_mercref' => 'FSRP-19628'
+    'ord_delcharges' => '8.00'
+    'wcID' => '40238955'
+    'returncode' => '100'
+    'ord_key' => '0db7243d10ff727215201802fd6860651168aa8f'
+]
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'USER' => 'fengrep'
+    'HOME' => '/home/fengrep'
+    'SCRIPT_NAME' => '/index.php'
+    'REQUEST_URI' => '/products/kiple-return'
+    'QUERY_STRING' => ''
+    'REQUEST_METHOD' => 'POST'
+    'SERVER_PROTOCOL' => 'HTTP/2.0'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'REDIRECT_URL' => '/products/kiple-return'
+    'REMOTE_PORT' => '58034'
+    'SCRIPT_FILENAME' => '/home/fengrep/public_html/web/fengshui-republic/frontend/web/index.php'
+    'SERVER_ADMIN' => 'webmaster@fengshui-republic.com'
+    'CONTEXT_DOCUMENT_ROOT' => '/home/fengrep/public_html/web/fengshui-republic/frontend/web'
+    'CONTEXT_PREFIX' => ''
+    'REQUEST_SCHEME' => 'https'
+    'DOCUMENT_ROOT' => '/home/fengrep/public_html/web/fengshui-republic/frontend/web'
+    'REMOTE_ADDR' => '210.186.134.97'
+    'SERVER_PORT' => '443'
+    'SERVER_ADDR' => '117.53.154.45'
+    'SERVER_NAME' => 'www.fengshui-republic.com'
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_SIGNATURE' => ''
+    'PATH' => '/usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin'
+    'HTTP_X_HTTPS' => '1'
+    'HTTP_HOST' => 'www.fengshui-republic.com'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'https://kiplepay.com/'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_SITE' => 'cross-site'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'HTTP_ORIGIN' => 'https://kiplepay.com'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"Windows\"'
+    'HTTP_SEC_CH_UA_MOBILE' => '?0'
+    'HTTP_SEC_CH_UA' => '\"Google Chrome\";v=\"95\", \"Chromium\";v=\"95\", \";Not A Brand\";v=\"99\"'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'CONTENT_LENGTH' => '267'
+    'proxy-nokeepalive' => '1'
+    'H2_STREAM_TAG' => '404-1'
+    'H2_STREAM_ID' => '1'
+    'H2_PUSHED_ON' => ''
+    'H2_PUSHED' => ''
+    'H2_PUSH' => 'on'
+    'H2PUSH' => 'on'
+    'HTTP2' => 'on'
+    'SSL_TLS_SNI' => 'www.fengshui-republic.com'
+    'HTTPS' => 'on'
+    'SCRIPT_URI' => 'https://www.fengshui-republic.com/products/kiple-return'
+    'SCRIPT_URL' => '/products/kiple-return'
+    'UNIQUE_ID' => 'YYOlpNWJRES0UgGROE-FdQABlA4'
+    'REDIRECT_STATUS' => '200'
+    'REDIRECT_H2_STREAM_TAG' => '404-1'
+    'REDIRECT_H2_STREAM_ID' => '1'
+    'REDIRECT_H2_PUSHED_ON' => ''
+    'REDIRECT_H2_PUSHED' => ''
+    'REDIRECT_H2_PUSH' => 'on'
+    'REDIRECT_H2PUSH' => 'on'
+    'REDIRECT_HTTP2' => 'on'
+    'REDIRECT_SSL_TLS_SNI' => 'www.fengshui-republic.com'
+    'REDIRECT_HTTPS' => 'on'
+    'REDIRECT_SCRIPT_URI' => 'https://www.fengshui-republic.com/products/kiple-return'
+    'REDIRECT_SCRIPT_URL' => '/products/kiple-return'
+    'REDIRECT_UNIQUE_ID' => 'YYOlpNWJRES0UgGROE-FdQABlA4'
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1636017572.9952
+    'REQUEST_TIME' => 1636017572
+    'argv' => []
+    'argc' => 0
+]
+2021-11-05 05:14:57 [122.11.214.12][-][-][info][kiple-notify] [
+    'ord_shipname' => 'Kelly Tan',
+    'ord_email' => 'dkny1301@yahoo.com',
+    'ord_mercID' => '80006571',
+    'ord_date' => '2021-11-05 05:14:31',
+    'ord_totalamt' => '138',
+    'ord_telephone' => '6598803599',
+    'ord_mercref' => 'FSRP-19629',
+    'ord_delcharges' => '38.00',
+    'wcID' => '',
+    'returncode' => 'E2',
+    'ord_key' => 'f9afa0dcc9c0f714c62291d9c56b664538d3959a',
+]
+    in /home/fengrep/public_html/web/fengshui-republic/frontend/controllers/ProductsController.php:478
+2021-11-05 05:14:57 [122.11.214.12][-][-][info][application] $_GET = []
+
+$_POST = [
+    'ord_shipname' => 'Kelly Tan'
+    'ord_email' => 'dkny1301@yahoo.com'
+    'ord_mercID' => '80006571'
+    'ord_date' => '2021-11-05 05:14:31'
+    'ord_totalamt' => '138'
+    'ord_telephone' => '6598803599'
+    'ord_mercref' => 'FSRP-19629'
+    'ord_delcharges' => '38.00'
+    'wcID' => ''
+    'returncode' => 'E2'
+    'ord_key' => 'f9afa0dcc9c0f714c62291d9c56b664538d3959a'
+]
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'USER' => 'fengrep'
+    'HOME' => '/home/fengrep'
+    'SCRIPT_NAME' => '/index.php'
+    'REQUEST_URI' => '/products/kiple-return'
+    'QUERY_STRING' => ''
+    'REQUEST_METHOD' => 'POST'
+    'SERVER_PROTOCOL' => 'HTTP/2.0'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'REDIRECT_URL' => '/products/kiple-return'
+    'REMOTE_PORT' => '25436'
+    'SCRIPT_FILENAME' => '/home/fengrep/public_html/web/fengshui-republic/frontend/web/index.php'
+    'SERVER_ADMIN' => 'webmaster@fengshui-republic.com'
+    'CONTEXT_DOCUMENT_ROOT' => '/home/fengrep/public_html/web/fengshui-republic/frontend/web'
+    'CONTEXT_PREFIX' => ''
+    'REQUEST_SCHEME' => 'https'
+    'DOCUMENT_ROOT' => '/home/fengrep/public_html/web/fengshui-republic/frontend/web'
+    'REMOTE_ADDR' => '122.11.214.12'
+    'SERVER_PORT' => '443'
+    'SERVER_ADDR' => '117.53.154.45'
+    'SERVER_NAME' => 'fengshui-republic.com'
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_SIGNATURE' => ''
+    'PATH' => '/usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin'
+    'HTTP_X_HTTPS' => '1'
+    'HTTP_HOST' => 'fengshui-republic.com'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-SG,en;q=0.9,zh-SG;q=0.8,zh;q=0.7,en-GB;q=0.6,en-US;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'https://kiplepay.com/'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_SITE' => 'cross-site'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Linux; Android 10; LYA-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.50 Mobile Safari/537.36'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'HTTP_ORIGIN' => 'https://kiplepay.com'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"Android\"'
+    'HTTP_SEC_CH_UA_MOBILE' => '?1'
+    'HTTP_SEC_CH_UA' => '\"Google Chrome\";v=\"95\", \"Chromium\";v=\"95\", \";Not A Brand\";v=\"99\"'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'CONTENT_LENGTH' => '261'
+    'proxy-nokeepalive' => '1'
+    'H2_STREAM_TAG' => '261-1'
+    'H2_STREAM_ID' => '1'
+    'H2_PUSHED_ON' => ''
+    'H2_PUSHED' => ''
+    'H2_PUSH' => 'on'
+    'H2PUSH' => 'on'
+    'HTTP2' => 'on'
+    'SSL_TLS_SNI' => 'fengshui-republic.com'
+    'HTTPS' => 'on'
+    'SCRIPT_URI' => 'https://fengshui-republic.com/products/kiple-return'
+    'SCRIPT_URL' => '/products/kiple-return'
+    'UNIQUE_ID' => 'YYRNURw4-e3UfGIhFt_I7gABBRc'
+    'REDIRECT_STATUS' => '200'
+    'REDIRECT_H2_STREAM_TAG' => '261-1'
+    'REDIRECT_H2_STREAM_ID' => '1'
+    'REDIRECT_H2_PUSHED_ON' => ''
+    'REDIRECT_H2_PUSHED' => ''
+    'REDIRECT_H2_PUSH' => 'on'
+    'REDIRECT_H2PUSH' => 'on'
+    'REDIRECT_HTTP2' => 'on'
+    'REDIRECT_SSL_TLS_SNI' => 'fengshui-republic.com'
+    'REDIRECT_HTTPS' => 'on'
+    'REDIRECT_SCRIPT_URI' => 'https://fengshui-republic.com/products/kiple-return'
+    'REDIRECT_SCRIPT_URL' => '/products/kiple-return'
+    'REDIRECT_UNIQUE_ID' => 'YYRNURw4-e3UfGIhFt_I7gABBRc'
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1636060497.1865
+    'REQUEST_TIME' => 1636060497
+    'argv' => []
+    'argc' => 0
+]
+2021-11-09 03:01:08 [113.211.106.232][-][-][info][kiple-notify] [
+    'ord_shipname' => 'Har Janice',
+    'ord_email' => 'jannice.har@gmail.com',
+    'ord_mercID' => '80006571',
+    'ord_date' => '2021-11-09 02:58:59',
+    'ord_totalamt' => '24.8',
+    'ord_telephone' => '0123232752',
+    'ord_mercref' => 'FSRP-19632',
+    'ord_delcharges' => '8.00',
+    'wcID' => '40362882',
+    'returncode' => '100',
+    'ord_key' => '51ce3cba93788613cf53352288f0941365ef8761',
+]
+    in /home/fengrep/public_html/web/fengshui-republic/frontend/controllers/ProductsController.php:478
+2021-11-09 03:01:08 [113.211.106.232][-][-][info][application] $_GET = []
+
+$_POST = [
+    'ord_shipname' => 'Har Janice'
+    'ord_email' => 'jannice.har@gmail.com'
+    'ord_mercID' => '80006571'
+    'ord_date' => '2021-11-09 02:58:59'
+    'ord_totalamt' => '24.8'
+    'ord_telephone' => '0123232752'
+    'ord_mercref' => 'FSRP-19632'
+    'ord_delcharges' => '8.00'
+    'wcID' => '40362882'
+    'returncode' => '100'
+    'ord_key' => '51ce3cba93788613cf53352288f0941365ef8761'
+]
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'USER' => 'fengrep'
+    'HOME' => '/home/fengrep'
+    'SCRIPT_NAME' => '/index.php'
+    'REQUEST_URI' => '/products/kiple-return'
+    'QUERY_STRING' => ''
+    'REQUEST_METHOD' => 'POST'
+    'SERVER_PROTOCOL' => 'HTTP/2.0'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'REDIRECT_URL' => '/products/kiple-return'
+    'REMOTE_PORT' => '44199'
+    'SCRIPT_FILENAME' => '/home/fengrep/public_html/web/fengshui-republic/frontend/web/index.php'
+    'SERVER_ADMIN' => 'webmaster@fengshui-republic.com'
+    'CONTEXT_DOCUMENT_ROOT' => '/home/fengrep/public_html/web/fengshui-republic/frontend/web'
+    'CONTEXT_PREFIX' => ''
+    'REQUEST_SCHEME' => 'https'
+    'DOCUMENT_ROOT' => '/home/fengrep/public_html/web/fengshui-republic/frontend/web'
+    'REMOTE_ADDR' => '113.211.106.232'
+    'SERVER_PORT' => '443'
+    'SERVER_ADDR' => '117.53.154.45'
+    'SERVER_NAME' => 'www.fengshui-republic.com'
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_SIGNATURE' => ''
+    'PATH' => '/usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin'
+    'HTTP_X_HTTPS' => '1'
+    'HTTP_HOST' => 'www.fengshui-republic.com'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en;q=0.9,en-US;q=0.8,zh-CN;q=0.7,zh;q=0.6,ms;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'https://kiplepay.com/'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_SITE' => 'cross-site'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Linux; Android 11; SM-G991B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.74 Mobile Safari/537.36'
+    'HTTP_SAVE_DATA' => 'on'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'HTTP_ORIGIN' => 'https://kiplepay.com'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"Android\"'
+    'HTTP_SEC_CH_UA_MOBILE' => '?1'
+    'HTTP_SEC_CH_UA' => '\"Google Chrome\";v=\"95\", \"Chromium\";v=\"95\", \";Not A Brand\";v=\"99\"'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'CONTENT_LENGTH' => '274'
+    'proxy-nokeepalive' => '1'
+    'H2_STREAM_TAG' => '448-1'
+    'H2_STREAM_ID' => '1'
+    'H2_PUSHED_ON' => ''
+    'H2_PUSHED' => ''
+    'H2_PUSH' => 'on'
+    'H2PUSH' => 'on'
+    'HTTP2' => 'on'
+    'SSL_TLS_SNI' => 'www.fengshui-republic.com'
+    'HTTPS' => 'on'
+    'SCRIPT_URI' => 'https://www.fengshui-republic.com/products/kiple-return'
+    'SCRIPT_URL' => '/products/kiple-return'
+    'UNIQUE_ID' => 'YYlz9PKL5xntZ4uhOdFxZQABwAw'
+    'REDIRECT_STATUS' => '200'
+    'REDIRECT_H2_STREAM_TAG' => '448-1'
+    'REDIRECT_H2_STREAM_ID' => '1'
+    'REDIRECT_H2_PUSHED_ON' => ''
+    'REDIRECT_H2_PUSHED' => ''
+    'REDIRECT_H2_PUSH' => 'on'
+    'REDIRECT_H2PUSH' => 'on'
+    'REDIRECT_HTTP2' => 'on'
+    'REDIRECT_SSL_TLS_SNI' => 'www.fengshui-republic.com'
+    'REDIRECT_HTTPS' => 'on'
+    'REDIRECT_SCRIPT_URI' => 'https://www.fengshui-republic.com/products/kiple-return'
+    'REDIRECT_SCRIPT_URL' => '/products/kiple-return'
+    'REDIRECT_UNIQUE_ID' => 'YYlz9PKL5xntZ4uhOdFxZQABwAw'
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1636398068.7707
+    'REQUEST_TIME' => 1636398068
+    'argv' => []
+    'argc' => 0
+]
+2021-11-09 12:03:56 [124.13.185.29][-][-][info][kiple-notify] [
+    'ord_shipname' => '张绍宏 CHONG SAU HUNG',
+    'ord_email' => 'sh_chong23@hotmail.com',
+    'ord_mercID' => '80006571',
+    'ord_date' => '2021-11-09 12:02:59',
+    'ord_totalamt' => '108',
+    'ord_telephone' => '+60176782376',
+    'ord_mercref' => 'FSRP-19633',
+    'ord_delcharges' => '8.00',
+    'wcID' => '',
+    'returncode' => 'E1',
+    'ord_key' => '4a0203c2845af123852941cf65b8d64d718c1315',
+]
+    in /home/fengrep/public_html/web/fengshui-republic/frontend/controllers/ProductsController.php:478
+2021-11-09 12:03:56 [124.13.185.29][-][-][info][application] $_GET = []
+
+$_POST = [
+    'ord_shipname' => '张绍宏 CHONG SAU HUNG'
+    'ord_email' => 'sh_chong23@hotmail.com'
+    'ord_mercID' => '80006571'
+    'ord_date' => '2021-11-09 12:02:59'
+    'ord_totalamt' => '108'
+    'ord_telephone' => '+60176782376'
+    'ord_mercref' => 'FSRP-19633'
+    'ord_delcharges' => '8.00'
+    'wcID' => ''
+    'returncode' => 'E1'
+    'ord_key' => '4a0203c2845af123852941cf65b8d64d718c1315'
+]
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'USER' => 'fengrep'
+    'HOME' => '/home/fengrep'
+    'SCRIPT_NAME' => '/index.php'
+    'REQUEST_URI' => '/products/kiple-return'
+    'QUERY_STRING' => ''
+    'REQUEST_METHOD' => 'POST'
+    'SERVER_PROTOCOL' => 'HTTP/2.0'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'REDIRECT_URL' => '/products/kiple-return'
+    'REMOTE_PORT' => '55376'
+    'SCRIPT_FILENAME' => '/home/fengrep/public_html/web/fengshui-republic/frontend/web/index.php'
+    'SERVER_ADMIN' => 'webmaster@fengshui-republic.com'
+    'CONTEXT_DOCUMENT_ROOT' => '/home/fengrep/public_html/web/fengshui-republic/frontend/web'
+    'CONTEXT_PREFIX' => ''
+    'REQUEST_SCHEME' => 'https'
+    'DOCUMENT_ROOT' => '/home/fengrep/public_html/web/fengshui-republic/frontend/web'
+    'REMOTE_ADDR' => '124.13.185.29'
+    'SERVER_PORT' => '443'
+    'SERVER_ADDR' => '117.53.154.45'
+    'SERVER_NAME' => 'www.fengshui-republic.com'
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_SIGNATURE' => ''
+    'PATH' => '/usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin'
+    'HTTP_X_HTTPS' => '1'
+    'HTTP_HOST' => 'www.fengshui-republic.com'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9,zh-CN;q=0.8,zh-TW;q=0.7,zh;q=0.6'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'https://kiplepay.com/'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_SITE' => 'cross-site'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.44'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'HTTP_ORIGIN' => 'https://kiplepay.com'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"Windows\"'
+    'HTTP_SEC_CH_UA_MOBILE' => '?0'
+    'HTTP_SEC_CH_UA' => '\"Microsoft Edge\";v=\"95\", \"Chromium\";v=\"95\", \";Not A Brand\";v=\"99\"'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'CONTENT_LENGTH' => '301'
+    'proxy-nokeepalive' => '1'
+    'H2_STREAM_TAG' => '149-1'
+    'H2_STREAM_ID' => '1'
+    'H2_PUSHED_ON' => ''
+    'H2_PUSHED' => ''
+    'H2_PUSH' => 'on'
+    'H2PUSH' => 'on'
+    'HTTP2' => 'on'
+    'SSL_TLS_SNI' => 'www.fengshui-republic.com'
+    'HTTPS' => 'on'
+    'SCRIPT_URI' => 'https://www.fengshui-republic.com/products/kiple-return'
+    'SCRIPT_URL' => '/products/kiple-return'
+    'UNIQUE_ID' => 'YYnzLKt1nKWbklDGnAhJsQAAlQI'
+    'REDIRECT_STATUS' => '200'
+    'REDIRECT_H2_STREAM_TAG' => '149-1'
+    'REDIRECT_H2_STREAM_ID' => '1'
+    'REDIRECT_H2_PUSHED_ON' => ''
+    'REDIRECT_H2_PUSHED' => ''
+    'REDIRECT_H2_PUSH' => 'on'
+    'REDIRECT_H2PUSH' => 'on'
+    'REDIRECT_HTTP2' => 'on'
+    'REDIRECT_SSL_TLS_SNI' => 'www.fengshui-republic.com'
+    'REDIRECT_HTTPS' => 'on'
+    'REDIRECT_SCRIPT_URI' => 'https://www.fengshui-republic.com/products/kiple-return'
+    'REDIRECT_SCRIPT_URL' => '/products/kiple-return'
+    'REDIRECT_UNIQUE_ID' => 'YYnzLKt1nKWbklDGnAhJsQAAlQI'
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1636430636.4377
+    'REQUEST_TIME' => 1636430636
+    'argv' => []
+    'argc' => 0
+]
+2021-11-09 12:05:49 [124.13.185.29][-][-][info][kiple-notify] [
+    'ord_shipname' => '张绍宏 CHONG SAU HUNG',
+    'ord_email' => 'sh_chong23@hotmail.com',
+    'ord_mercID' => '80006571',
+    'ord_date' => '2021-11-09 12:04:27',
+    'ord_totalamt' => '108',
+    'ord_telephone' => '+60176782376',
+    'ord_mercref' => 'FSRP-19634',
+    'ord_delcharges' => '8.00',
+    'wcID' => '40369900',
+    'returncode' => '100',
+    'ord_key' => '4bf5589604d7bda30417b7204a5e3598a0c432cb',
+]
+    in /home/fengrep/public_html/web/fengshui-republic/frontend/controllers/ProductsController.php:478
+2021-11-09 12:05:49 [124.13.185.29][-][-][info][application] $_GET = []
+
+$_POST = [
+    'ord_shipname' => '张绍宏 CHONG SAU HUNG'
+    'ord_email' => 'sh_chong23@hotmail.com'
+    'ord_mercID' => '80006571'
+    'ord_date' => '2021-11-09 12:04:27'
+    'ord_totalamt' => '108'
+    'ord_telephone' => '+60176782376'
+    'ord_mercref' => 'FSRP-19634'
+    'ord_delcharges' => '8.00'
+    'wcID' => '40369900'
+    'returncode' => '100'
+    'ord_key' => '4bf5589604d7bda30417b7204a5e3598a0c432cb'
+]
+
+$_FILES = []
+
+$_COOKIE = [
+    'advanced-frontend' => '7dd994f9ec88844eaacd3d487f7d98fd'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'h7c45'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'USER' => 'fengrep'
+    'HOME' => '/home/fengrep'
+    'SCRIPT_NAME' => '/index.php'
+    'REQUEST_URI' => '/products/kiple-return'
+    'QUERY_STRING' => ''
+    'REQUEST_METHOD' => 'POST'
+    'SERVER_PROTOCOL' => 'HTTP/2.0'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'REDIRECT_URL' => '/products/kiple-return'
+    'REMOTE_PORT' => '55405'
+    'SCRIPT_FILENAME' => '/home/fengrep/public_html/web/fengshui-republic/frontend/web/index.php'
+    'SERVER_ADMIN' => 'webmaster@fengshui-republic.com'
+    'CONTEXT_DOCUMENT_ROOT' => '/home/fengrep/public_html/web/fengshui-republic/frontend/web'
+    'CONTEXT_PREFIX' => ''
+    'REQUEST_SCHEME' => 'https'
+    'DOCUMENT_ROOT' => '/home/fengrep/public_html/web/fengshui-republic/frontend/web'
+    'REMOTE_ADDR' => '124.13.185.29'
+    'SERVER_PORT' => '443'
+    'SERVER_ADDR' => '117.53.154.45'
+    'SERVER_NAME' => 'www.fengshui-republic.com'
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_SIGNATURE' => ''
+    'PATH' => '/usr/local/jdk/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/usr/X11R6/bin:/usr/local/bin:/usr/X11R6/bin:/root/bin:/opt/bin'
+    'HTTP_X_HTTPS' => '1'
+    'HTTP_HOST' => 'www.fengshui-republic.com'
+    'HTTP_COOKIE' => 'advanced-frontend=7dd994f9ec88844eaacd3d487f7d98fd'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9,zh-CN;q=0.8,zh-TW;q=0.7,zh;q=0.6'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'https://kiplepay.com/'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_SITE' => 'cross-site'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.44'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'HTTP_ORIGIN' => 'https://kiplepay.com'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"Windows\"'
+    'HTTP_SEC_CH_UA_MOBILE' => '?0'
+    'HTTP_SEC_CH_UA' => '\"Microsoft Edge\";v=\"95\", \"Chromium\";v=\"95\", \";Not A Brand\";v=\"99\"'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'CONTENT_LENGTH' => '310'
+    'proxy-nokeepalive' => '1'
+    'H2_STREAM_TAG' => '199-1'
+    'H2_STREAM_ID' => '1'
+    'H2_PUSHED_ON' => ''
+    'H2_PUSHED' => ''
+    'H2_PUSH' => 'on'
+    'H2PUSH' => 'on'
+    'HTTP2' => 'on'
+    'SSL_TLS_SNI' => 'www.fengshui-republic.com'
+    'HTTPS' => 'on'
+    'SCRIPT_URI' => 'https://www.fengshui-republic.com/products/kiple-return'
+    'SCRIPT_URL' => '/products/kiple-return'
+    'UNIQUE_ID' => 'YYnznQl-TlJ5E6SwIfPlDAAAxxA'
+    'REDIRECT_STATUS' => '200'
+    'REDIRECT_H2_STREAM_TAG' => '199-1'
+    'REDIRECT_H2_STREAM_ID' => '1'
+    'REDIRECT_H2_PUSHED_ON' => ''
+    'REDIRECT_H2_PUSHED' => ''
+    'REDIRECT_H2_PUSH' => 'on'
+    'REDIRECT_H2PUSH' => 'on'
+    'REDIRECT_HTTP2' => 'on'
+    'REDIRECT_SSL_TLS_SNI' => 'www.fengshui-republic.com'
+    'REDIRECT_HTTPS' => 'on'
+    'REDIRECT_SCRIPT_URI' => 'https://www.fengshui-republic.com/products/kiple-return'
+    'REDIRECT_SCRIPT_URL' => '/products/kiple-return'
+    'REDIRECT_UNIQUE_ID' => 'YYnznQl-TlJ5E6SwIfPlDAAAxxA'
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1636430749.6237
+    'REQUEST_TIME' => 1636430749
+    'argv' => []
+    'argc' => 0
+]

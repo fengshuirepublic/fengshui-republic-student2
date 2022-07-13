@@ -1,0 +1,20 @@
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-12 col-md-10 col-xl-8 mx-auto">
+			<div class="customer-testimonial">
+				<img src="../images/testimonials/testimonial-08-lg.jpg" class="img-fluid d-flex mx-auto">
+			</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-12 col-md-10 col-xl-8 mx-auto">
+			<div class="customer-testimonial mb-5 mt-4">
+				<h4>The company’s energy flow did become better; its business development and the debt collection became much more efficient, and the staff turnover also became more stabilized.</h4>
+				<h6 class="mb-4">Client：Jeremy Kee</h6>
+				<p>I have known Master Loh for years, though I had attended his Fengshui talks and courses, I had never consulted him on matters regarding household and commercial Fengshui. That was until two years ago, my business became stagnant, and it was harder for me to get back the outstanding fees owed by my clients. Then, I thought about consulting Master Loh on matters regarding commercial Fengshui. So I called the Master’s assistant to ask about the procedures, cost and then we decided the Fengshui inspection date and time.When Master Loh was finally able to come to our company, we had waited for a period of time, but the Fengshui Republic’s team had also acquired the Bazi of the people in charge of the company, and they confirmed our appointment time again to make sure there was no mistake, and this clearly shows their professionalism. During the Fengshui inspection day, Master Loh and his assistant reached our company on time. Without wasting much time, he took out his Fengshui compass and meticulously checked our company’s position, business flows and even our company’s altar. At first I thought Master Loh was way too serious as he did not smile when he was examining the company’s Fengshui, and his concentration was only on our company’s information and on the compass. Yet after he finished the inspection, he smiled and explained in detailed about our company’s shortcomings and how things can be improved, as well as all major and minor matters that we need to pay attention on.</p>
+				<p>It was only later that his assistant told me Master Loh did not intentionally pretend to be serious, but rather his schedule was packed that day and he wanted to use the limited time to make sure his work was well-done before he could chat with the clients and explain Fengshui in detailed. I was very pleased that Master Loh did not ask us to do drastic renovation, and only minor changes were required, like changing the positions of seats, signboard, main door and the earth god shrine, as well as placing water-feature decorative object at the Wealth Position. At the end, Master Loh even explained to us the details about our Bazi and what we should pay attention on, and I felt his service is really worth for the fee we paid. About 2 to 3 weeks after the inspection, we received our company’s Fengshui report from Fengshui Republic, and Master Loh’s assistant had spent quite some time to explain the content of the report to us, and gave us suggestions on how to improve the Fengshui of our company.</p>
+				<p>So, we followed Master Loh’s suggestion to make some changes in our office and factory, and afterwards it seems that the company’s energy flow did become better; its business development and the debt collection became much more efficient, and the staff turnover also became more stabilized. This and together with the efforts of the entire company’s members, the business has improved a lot. The first Fengshui inspection brought us rather positive results, and recently we also consulted Master Loh for the auspicious positions of our new house and for the inspection of its Fengshui, and we hope the Fengshui of our new house will bring us good improvements in our business and in our family life.That is why I think Fengshui Republic is a professional, trustworthy Fengshui consultation company!</p>
+			</div>
+		</div>
+	</div>
+</div>

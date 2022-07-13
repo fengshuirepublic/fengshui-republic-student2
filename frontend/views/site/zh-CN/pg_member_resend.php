@@ -1,0 +1,1 @@
+<small>没收到电邮? 点击 <a data-toggle="modal" data-target="#resendModal" id="resend-modal" href="javascript:void(0)"><span class="fsrepublic-text-gold">这里</span></a> 重新发送</small>

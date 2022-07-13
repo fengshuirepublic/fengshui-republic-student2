@@ -1,0 +1,125 @@
+#nav-services {
+	color: #7E5D34;
+}
+
+#title {
+	box-shadow: inset 0px 15px 30px -10px #CCC;
+	position: relative;
+	z-index: 99;
+	background-color: #fff;
+}
+
+#bg-spark {
+	margin-top: 50px;
+	position: relative;
+	z-index: 99;
+	background-image: url("../../images/service/all-services/sparkling.jpg");
+	background-repeat: no-repeat;
+	background-position: right bottom;
+	background-size: cover;
+}
+
+.btn-white {
+	background: #fff;
+	border: 1px solid #fff;
+	color: #000;
+	border-radius: 0;
+	box-shadow: 1px 1px 10px #4e4444;
+}
+
+.button-wrap {
+	position: relative;
+	z-index: 99;
+	top: -230px;
+}
+
+h1 {
+	/*font-size: x-large;*/
+	font-size: 170%;
+}
+
+.service-group {
+	height: 350px;
+	position: relative;
+}
+
+.image-group {
+	height: 450px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#service-1 {z-index: 1;}
+#img-1 {background-image: url("../../images/service/all-services/service-lg-1.jpg");}
+
+#service-2 {z-index: 2;}
+#img-2 {background-image: url("../../images/service/all-services/service-lg-2.jpg");}
+
+#service-3 {z-index: 3;}
+#img-3 {background-image: url("../../images/service/all-services/service-lg-3.jpg"); background-position: top;}
+
+#service-4 {z-index: 4;}
+#img-4 {background-image: url("../../images/service/all-services/service-lg-4.jpg"); background-position: bottom;}
+
+#service-5 {z-index: 5;}
+#img-5 {background-image: url("../../images/service/all-services/service-lg-5.jpg");}
+
+#service-6 {z-index: 6;}
+#img-6 {background-image: url("../../images/service/all-services/service-lg-6.jpg"); background-position: bottom;}
+
+#service-7 {z-index: 7;}
+#img-7 {background-image: url("../../images/service/all-services/service-lg-7.jpg");}
+
+#service-8 {z-index: 8;}
+#img-8 {background-image: url("../../images/service/all-services/service-lg-8.jpg");}
+
+#service-9 {z-index: 9;}
+#img-9 {background-image: url("../../images/service/all-services/service-lg-9.jpg");}
+
+#service-10 {z-index: 10;}
+#img-10 {background-image: url("../../images/service/all-services/service-lg-10.jpg"); background-position: bottom;}
+
+#service-11 {z-index: 11;}
+#img-11 {background-image: url("../../images/service/all-services/service-lg-11.jpg");}
+
+#service-12 {z-index: 12;}
+#img-12 {background-image: url("../../images/service/all-services/service-lg-12.jpg"); background-position: top;}
+
+@media (max-width: 767px) {
+	h1 {
+		font-size: 110%;
+	}
+
+	.button-wrap {
+		top: -180px;
+	}
+
+	.service-group {
+		height: 250px;
+	}
+	.image-group {
+		height: 350px;
+	}
+
+	#img-1 {background-image: url("../../images/service/all-services/service-m-1.jpg");}
+	#img-2 {background-image: url("../../images/service/all-services/service-m-2.jpg");}
+	#img-3 {background-image: url("../../images/service/all-services/service-m-3.jpg");}
+	#img-4 {background-image: url("../../images/service/all-services/service-m-4.jpg");}
+	#img-5 {background-image: url("../../images/service/all-services/service-m-5.jpg");}
+	#img-6 {background-image: url("../../images/service/all-services/service-m-6.jpg");}
+	#img-7 {background-image: url("../../images/service/all-services/service-m-7.jpg");}
+	#img-8 {background-image: url("../../images/service/all-services/service-m-8.jpg");}
+	#img-9 {background-image: url("../../images/service/all-services/service-m-9.jpg");}
+	#img-10 {background-image: url("../../images/service/all-services/service-m-10.jpg");}
+	#img-11 {background-image: url("../../images/service/all-services/service-m-11.jpg");}
+	#img-12 {background-image: url("../../images/service/all-services/service-m-12.jpg");}
+}
+
+@media (max-width: 991px) {
+	.course-title {
+		font-size: 11px;
+	}
+}
+
+

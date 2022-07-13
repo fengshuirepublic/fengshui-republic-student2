@@ -1,0 +1,21 @@
+#nav-courses {
+	color: #7E5D34;
+}
+
+#bg-spark {
+	background-image: url("../../images/service/all-services/sparkling.jpg");
+	background-repeat: no-repeat;
+	background-position: right bottom;
+	background-size: cover;
+}
+
+@media (max-width: 575px) {
+	#bg-spark-s {
+		background-image: url("../../images/service/all-services/sparkling.jpg");
+		background-repeat: no-repeat;
+		background-position: right bottom;
+		background-size: cover;
+	}
+}
+
+

@@ -1,0 +1,508 @@
+/*@media (max-width: 575px){}*/
+/*@media (min-width: 576px) and (max-width: 767px){}*/
+/*@media (min-width: 768px) and (max-width: 991px){}*/
+/*@media (min-width: 992px) and (max-width: 1199px){}*/
+/*@media (min-width: 1200px){}*/
+
+/* preset => */
+	a:hover,
+	a:visited,
+	a:link,
+	a:active {
+		text-decoration: none;
+		color: #000;
+	}
+
+	textarea { resize: vertical; }
+	textarea:focus,
+	textarea.form-control:focus,
+	input.form-control:focus,
+	input[type=text]:focus,
+	input[type=password]:focus,
+	input[type=email]:focus,
+	input[type=number]:focus,
+	[type=text].form-control:focus,
+	[type=password].form-control:focus,
+	[type=email].form-control:focus,
+	[type=tel].form-control:focus,
+	[contenteditable].form-control:focus {
+		box-shadow: none;
+	}
+
+	/*.custom-control-input:disabled ~ .custom-control-label {
+		cursor: not-allowed;
+	}*/
+
+	/* This is the default state */
+	.custom-radio .custom-control-label::before {
+		background-color: #a0a0a0;
+	}
+
+	/* This is the checked state */
+	.custom-radio .custom-control-input:checked~.custom-control-label::before,
+	.custom-radio .custom-control-input:checked~.custom-control-label::after {
+		background-color: #595959;
+		/* this bg image SVG is just a white circle, you can replace it with any valid SVG code */
+		background-image: url(data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='-4 -4 8 8'%3E%3Ccircle r='3' fill='%23fff'/%3E%3C/svg%3E);
+		border-radius: 50%;
+	}
+
+	/* active state i.e. displayed while the mouse is being pressed down */
+	.custom-radio .custom-control-input:active ~ .custom-control-label::before {
+		color: #fff;
+		background-color: #595959;
+	}
+
+	/* the shadow; displayed while the element is in focus */
+	.custom-radio .custom-control-input:focus ~ .custom-control-label::before {
+		/*box-shadow: 0 0 0 1px #fff, 0 0 0 0.2rem rgba(179,153,51,0.25);*/
+		box-shadow: 0 0 0 0.2rem rgba(179,153,51,0.25);
+	}
+
+	.btn-primary:not(:disabled):not(.disabled):active {
+		color: #fff;
+		background-color: #999999;
+		border-color: #999999;
+	}
+
+	.btn-primary:not(:disabled):not(.disabled):active:focus,
+	.btn-primary.focus,
+	.btn-primary:focus {
+		box-shadow: 0 0 0 0.2rem rgba(179,153,51,0.5);
+	}
+
+	.btn-primary {
+		background-color: #fff;
+		border: 1px solid #7E5D34;
+		color: #7E5D34;
+		border-radius: 0;
+	}
+
+	.btn-primary:hover {
+		background-color: #fff;
+		border: 1px solid #7E5D34;
+		color: #7E5D34;
+	}
+
+	.form-control:focus,
+	.form-captcha:focus {
+		border-color: #7E5D34;
+		outline: 0;
+		/*box-shadow: 0 0 0 0.2rem rgba(179,153,51,0.25);*/
+		box-shadow: none;
+	}
+
+	.fsrepublic-text-gold {
+		color: #7E5D34 !important;
+	}
+
+	.fsrepublic-text-white {
+		color: #fff !important;
+	}
+
+	.fsrepublic-text-black {
+		color: #000 !important;
+	}
+
+	.fsrepublic-gradient-brown {
+		background: url(../images/fr/gradient-01.jpg);
+		background-repeat: no-repeat;
+		background-position: center;
+		background-size: cover;
+	}
+
+	.section_overlay {
+		background: rgba(0,0,0,0.6) url(../images/fr/overlay.png) repeat;
+		width: 100%;
+		height: 400px;
+		position: absolute;
+		left: 0;
+		top: 0;
+	}
+
+	#accordionFAQ .card {
+		border: none;
+		border-radius: unset;
+	}
+
+	#accordionFAQ .card-header {
+		background-color: #EFECE8;
+		border: none;
+		border-radius: unset;
+		cursor: pointer;
+	}
+
+	@media (max-width: 767px){
+		#register_login {
+			display: none;
+		}
+	}
+
+	.site-error {
+		background-image: url("../images/republic/plain.jpg");
+		background-repeat: no-repeat;
+		background-position: center;
+		background-size: cover;
+		height: 500px;
+	}
+/* <= preset */
+
+/* video modal ===> */
+	.modal-backdrop.show {
+		opacity: .9;
+	}
+
+	#imageModal .modal-content,
+	#videoModal .modal-content {
+		background: none;
+		border: 0;
+		-moz-border-radius: 0; -webkit-border-radius: 0; border-radius: 0;
+		-moz-box-shadow: none; -webkit-box-shadow: none; box-shadow: none;
+	}
+
+	#imageModal .modal-header,
+	#videoModal .modal-header {
+		padding: 0;
+	}
+
+	#imageModal .modal-header, .modal-footer,
+	#videoModal .modal-header, .modal-footer {
+		border: 0;
+	}
+
+	#imageModal .modal-header .close,
+	#videoModal .modal-header .close {
+		float: none;
+		margin: 0;
+		font-size: 36px;
+		color: #fff;
+		font-weight: 300;
+		text-shadow: none;
+		opacity: 1;
+		padding: 0;
+	}
+
+	#imageModal .modal-body,
+	#videoModal .modal-body {
+		padding: 0;
+	}
+/* <=== video modal */
+
+/* float tools => */
+	#fsrepublic-tools {
+		position: fixed;
+		z-index: 999;
+		top: 3em;
+		right: 0px;
+		display: block;
+		cursor: pointer;
+	}
+
+	#fsrepublic-tools a {
+		color: #000;
+	}
+
+	.fsrepublic-tools-menu-wrap {
+		/*background-color: rgba(226, 32, 43, 0.9);*/
+		/*background-color: #E2202B;*/
+		background-color: #7E5D34;
+		color: #fff;
+		padding: 0.5em;
+		font-size: 8px;
+	}
+
+	.fsrepublic-tools-item-wrap {
+		background-color: #CCCCCC;
+		padding: 0.5em;
+		font-size: 8px;
+	}
+
+	.fsrepublic-tools-menu {
+		border: 1px solid #fff;
+		border-radius: 5px;
+		width: 56px;
+		height: 56px;
+	}
+
+	.fsrepublic-tools-item {
+		padding: 0.5em;
+		background-color: #fff;
+		border-radius: 5px;
+		line-height: 1.2;
+		width: 56px;
+		height: 56px;
+	}
+
+	.fsrepublic-tools-item-text {
+		margin-top: 3px;
+	}
+
+	#fsrepublic-tools-item-list {
+		display: none;
+	}
+
+	#liunian-div,
+	#qimen-div,
+	#eight-mansion-div,
+	#flying-star-div {
+		background-image: url("../images/republic/plain.jpg");
+		background-repeat: no-repeat;
+		background-position: center;
+		background-size: cover;
+		min-height: 800px;
+	}
+/* <= float tools */
+
+/* navigation bar => */
+	@media (max-width: 575px){
+		#brand-logo {
+			width: 150px;
+		}
+
+		#subNav .nav-link {
+			font-size: 14px;
+		}
+
+		#subNav .dropdown-item {
+			font-size: 12px;
+		}
+
+		.navbar {
+			padding-top: .1rem;
+			padding-bottom: .1rem;
+		}
+
+		#subNav .nav-link,
+		#subNav .dropdown-menu a {
+			text-align: center;
+		}
+
+		#subNav .dropdown-menu {
+			border: none;
+		}
+
+		#subNav .nav-link {
+			border-top: 1px solid #7E5D34;
+		}
+
+		#subNav #nav-home {
+			border-top: none;
+		}
+	}
+
+	@media (min-width: 576px) and (max-width: 767px){
+		#brand-logo {
+			width: 150px;
+		}
+
+		#subNav .nav-link {
+			font-size: 14px;
+		}
+
+		#subNav .dropdown-item {
+			font-size: 14px;
+		}
+
+		#subNav .nav-link,
+		#subNav .dropdown-menu a {
+			text-align: center;
+		}
+
+		#subNav .dropdown-menu {
+			border: none;
+		}
+
+		#subNav .nav-link {
+			border-top: 1px solid #7E5D34;
+		}
+	}
+
+	@media (min-width: 768px){
+		#brand-logo {
+			width: 200px;
+		}
+
+		#subNav .nav-link {
+			font-size: 14px;
+		}
+
+		#subNav .dropdown-item {
+			font-size: 14px;
+		}
+
+		#subNav .border-r {
+			border-right: 1px solid #555;
+		}
+
+		#subNav .border-l {
+			border-left: 1px solid #555;
+		}
+
+		#subNav .border-lr {
+			border-left: 1px solid #555;
+			border-right: 1px solid #555;
+		}
+	}
+
+	.nav-link {
+		color: #000;
+	}
+
+	#subNav a:hover {
+		background-color: #7E5D34;
+		color: #ffffff;
+	}
+/* <= navigation */
+
+/* navbar-toggler => */
+	.navbar-toggler {
+		border: none;
+	}
+
+	.navbar-toggler:focus,
+	.navbar-toggler:active {
+		outline: 0;
+	}
+
+	.navbar-toggler span {
+		display: block;
+		/*background-color: #8C7A66;*/
+		/*background-color: #7E5D34;*/
+		background-color: #fff;
+		height: 2px;
+		width: 27px;
+		margin-top: 6px;
+		margin-bottom: 6px;
+		-webkit-transform: rotate(0deg);
+		-moz-transform: rotate(0deg);
+		-o-transform: rotate(0deg);
+		transform: rotate(0deg);
+		position: relative;
+		left: 0;
+		opacity: 1;
+	}
+
+	/*.navbar-toggler span:nth-child(1),
+	.navbar-toggler span:nth-child(3) {
+		-webkit-transition: .35s ease-in-out;
+		-moz-transition: .35s ease-in-out;
+		-o-transition: .35s ease-in-out;
+		transition: .35s ease-in-out;
+		transform: rotate(0);
+	}
+
+	.navbar-toggler:not(.collapsed) span:nth-child(1) {
+		opacity: 0.9;
+		-webkit-transform: rotate(45deg);
+		-moz-transform: rotate(45deg);
+		-o-transform: rotate(45deg);
+		transform: rotate(45deg);
+		transform-origin: 8% 30%;
+	}
+
+	.navbar-toggler:not(.collapsed) span:nth-child(2) {
+		background-color: transparent;
+		transition:opacity .35s linear;
+	}
+
+	.navbar-toggler:not(.collapsed) span:nth-child(3) {
+		opacity: 0.9;
+		-webkit-transform: rotate(-45deg);
+		-moz-transform: rotate(-45deg);
+		-o-transform: rotate(-45deg);
+		transform: rotate(-45deg);
+		transform-origin: 5% 90%;
+	}*/
+
+	.collapsing {
+		-webkit-transition: height .35s ease-in-out;
+		-moz-transform: height .35s ease-in-out;
+		-o-transition: height .35s ease-in-out;
+		transition: height .35s ease-in-out;
+	}
+/* <= navbar-toggler */
+
+/* footer => */
+	.badge-gold {
+		padding: .4em .4em;
+		background: #7E5D34;
+		color: #fff;
+	}
+
+	#section_contact_fb .form-control,
+	#section_contact_fb .form-captcha {
+		/*background: rgba(183,183,183,0.4);*/
+		background: rgba(226,226,226,1);
+		/*border-color: transparent;*/
+		/*color: #7E5D34;*/
+		border-radius: 0;
+		-webkit-appearance: none;
+		box-shadow: none;
+	}
+
+	.facebook_href .fa,
+	.instagram_href .fa,
+	.youtube_href .fa {
+		margin-top: 10px;
+		background: #7E5D34;
+		width: 30px;
+		height: 30px;
+		border-radius: 50%;
+		color: #fff;
+		font-size: 19px;
+		padding: 9px 0;
+		text-align: center;
+		transition: 0.5s;
+	}
+
+	#section_address {
+		/*background-color: #000;*/
+		/*color: #fff;*/
+		background-color: #fff;
+		color: #000;
+	}
+
+	@media (max-width: 575px){
+		#section_address #border-address {
+			border-top: 1px solid #7E5D34;
+			border-bottom: 1px solid #7E5D34;
+			margin-top: 20px;
+			margin-bottom: 20px;
+			padding-bottom: 20px;
+			padding-top: 20px;
+		}
+	}
+
+	@media (min-width: 576px) and (max-width: 767px){
+		#section_address #border-address {
+			border-top: 1px solid #7E5D34;
+			border-bottom: 1px solid #7E5D34;
+			margin-top: 20px;
+			margin-bottom: 20px;
+			padding-bottom: 20px;
+			padding-top: 20px;
+		}
+	}
+
+	@media (min-width: 768px){
+		#section_address #border-address {
+			border-left: 1px solid #7E5D34;
+			border-right: 1px solid #7E5D34;
+		}
+
+		#section_address #border-award {
+			border-left: 1px solid #7E5D34;
+		}
+	}
+
+	#section_award {
+		background-color: #fff;
+	}
+
+	#section_info {
+		background-color: #000;
+		color: #fff;
+	}
+/* <= footer */
+
+

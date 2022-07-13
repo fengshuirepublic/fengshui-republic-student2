@@ -1,0 +1,32 @@
+#bg-yellow {
+	background-color: #FAD87E;
+}
+
+#bg-black {
+	background-color: #000;
+}
+
+#bg-dining1 {
+	background-image: url("../../images/2019feast/bg-dining1.jpg?2019-01-01-0000");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+#bg-dining2 {
+	background-image: url("../../images/2019feast/bg-dining2.jpg?2019-01-01-0000");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+#signature {
+	margin-top: -20px;
+}
+
+@media (min-width: 576px) and (max-width: 767px){}
+@media (min-width: 768px) and (max-width: 991px){}
+@media (min-width: 992px) and (max-width: 1199px){}
+@media (min-width: 1200px){}
+
+

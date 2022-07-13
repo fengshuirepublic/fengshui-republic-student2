@@ -1,0 +1,1 @@
+<small>Didn't receive email? click <a data-toggle="modal" data-target="#resendModal" id="resend-modal" href="javascript:void(0)"><span class="fsrepublic-text-gold">here</span></a> to resend</small>

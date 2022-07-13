@@ -1,0 +1,66 @@
+#nav-services {
+	color: #7E5D34;
+}
+
+#temp_image {
+	height: 400px;
+	background-image: url("../../images/service/tomb-fengshui/temp-1.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+#bg-1 {
+	background-image: url("../../images/fr/bg-marble.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+#bg-2 {
+	background-color: #B6B6B6;
+}
+
+#may-like {
+	/*background-color: #8F7A60;*/
+	/*background-color: #7A6142;*/
+	background: rgba(122,97,66,0.83);
+}
+
+#may-like .btn-primary {
+	background: transparent;
+	border: 1px solid #fff;
+	color: #fff;
+}
+
+/* seq => */
+	.seq {
+		position: relative;
+		height: 400px;
+		overflow: hidden;
+		background: #a2a2a2;
+	}
+
+	.seq .seq-absolute {
+		position: absolute;
+	}
+
+	.seq .seq-background {
+		top: 0;
+		left: 0;
+		width: 100%;
+	}
+
+	.seq .seq-model-1-1 img {
+		max-height: 568px;
+	}
+
+	.seq .seq-model-1-1 {
+		width: 100%;
+		max-height: 568px;
+		top: 20%;
+		height: 60%;
+	}
+/* <= seq */
+
+

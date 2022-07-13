@@ -1,0 +1,36 @@
+#nav-courses {
+	color: #7E5D34;
+}
+
+#bg-spark {
+	background-image: url("../../images/service/all-services/sparkling.jpg");
+	background-repeat: no-repeat;
+	background-position: bottom center;
+	background-size: cover;
+}
+
+@media (max-width: 575px) {
+	#bg-spark-s {
+		background-image: url("../../images/service/all-services/sparkling.jpg");
+		background-repeat: no-repeat;
+		background-position: bottom center;
+		background-size: cover;
+	}
+}
+
+#scheduleList .card {
+	border: none;
+	border-radius: unset;
+	background-color: transparent;
+}
+
+#scheduleList .card-header {
+	background-color: rgba(0, 0, 0, 0.2);
+	/*background-color: rgba(255, 0, 0, 0.2);*/
+	border: none;
+	border-radius: unset;
+	cursor: pointer;
+	font-size: 1.3em;
+}
+
+

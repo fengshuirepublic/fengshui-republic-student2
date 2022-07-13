@@ -1,0 +1,21 @@
+{
+    "name": "pentajeu/easypdf",
+    "description": "Easy TCPDF usage",
+    "require": {
+        "pentajeu/utils": "^1.0",
+        "tecnickcom/tcpdf": "^6.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jay Lim",
+            "email": "jay@pentajeu.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "pentajeu\\extensions\\": ""
+        }
+    }
+}

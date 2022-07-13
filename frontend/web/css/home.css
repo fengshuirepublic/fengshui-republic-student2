@@ -1,0 +1,127 @@
+#nav-home {
+	color: #7E5D34;
+}
+
+#main_image_1_1 {
+	height: 400px;
+	background-image: url("../images/fr/main-master-1-1.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+#main_image_1_2 {
+	height: 400px;
+	background-image: url("../images/fr/main-master-1-1.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+#main_image_2_1 {
+	height: 400px;
+	background-image: url("../images/fr/main-master-2-1.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+#main_image_2_2 {
+	height: 400px;
+	background-image: url("../images/fr/main-master-2-1.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+#bg-1 {
+	background-color: #000;
+}
+
+#bg-2 {
+	background-image: url("../images/fr/bg-marble.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+.bg-3 {
+	background-color: #231F20;
+}
+
+#naming-bazi-bg {
+	box-shadow: inset 0px 15px 30px -10px #CCC;
+}
+
+#naming-bazi-bg .form-control,
+#naming-bazi-bg .form-captcha {
+	/*background: rgba(183,183,183,0.4);*/
+	background: rgba(226,226,226,1);
+	border-radius: 0;
+	-webkit-appearance: none;
+	box-shadow: none;
+}
+
+#naming-bazi-bg input:disabled,
+#naming-bazi-bg select:disabled {
+	background: rgba(226,226,226,0.4);
+	cursor: not-allowed;
+}
+
+#naming-bazi-bg #shadow {
+	height: 60px;
+	box-shadow: inset 0px 15px 30px -10px #CCC;
+}
+
+/* seq => */
+	.seq {
+		position: relative;
+		height: 400px;
+		overflow: hidden;
+		background: #a2a2a2;
+	}
+
+	.seq .seq-absolute {
+		position: absolute;
+	}
+
+	.seq .seq-background {
+		top: 0;
+		left: 0;
+		width: 100%;
+	}
+
+	.seq .seq-model-1-1 img {
+		max-height: 568px;
+	}
+
+	.seq .seq-model-1-1 {
+		width: 100%;
+		max-height: 568px;
+		bottom: 20px;
+		left: 50px;
+		height: 9%;
+	}
+
+	@media (max-width: 575px){
+
+	}
+
+	@media (min-width: 576px) and (max-width: 767px){
+
+	}
+
+	@media (min-width: 768px) and (max-width: 991px){
+
+	}
+
+	@media (min-width: 992px) and (max-width: 1199px){
+
+	}
+
+	@media (min-width: 1200px){
+
+	}
+/* <= seq */
+
+
