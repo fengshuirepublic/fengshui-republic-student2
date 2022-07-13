@@ -11,6 +11,7 @@ use frontend\models\FsChar;
 use frontend\models\FsPersonalDirection;
 use frontend\models\AccessQimen;
 use frontend\models\AccessBazi;
+use frontend\models\AccessA3;
 use frontend\models\AccessBaziReport;
 use frontend\models\LogToolsNaming;
 use frontend\models\LogToolsBazi;
@@ -681,7 +682,8 @@ class ToolsController extends Controller
 		if (isset($post['Liunian'])) {
 			$access = $post['Liunian']['access'];
 			if ($access) {
-				// $result = AccessBazi::find()->where(['access' => md5($access)])->one();
+				
+				$result = AccessA3::find()->where(['access' => md5($access)])->one();
 				if ($access = '1234') {
 					$session = Yii::$app->session;
 					$session->set('liunian_access_code', md5($access));
