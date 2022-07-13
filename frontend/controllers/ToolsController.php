@@ -680,7 +680,7 @@ class ToolsController extends Controller
 	{
 		$access2 = '1234';
 		$result1 = AccessA3::find()->where(['access' => md5($access2)])->one();
-		var_dump($result1);
+		var_dump(md5($access2));
 
 		$post = Yii::$app->request->post();
 		if (isset($post['Liunian'])) {
