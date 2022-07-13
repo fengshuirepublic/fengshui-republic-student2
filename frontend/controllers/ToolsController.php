@@ -678,10 +678,6 @@ class ToolsController extends Controller
 	
 	public function actionBaziAccess()
 	{
-		$access2 = '1234';
-		$result1 = AccessA3::find()->where(['access' => md5($access2)])->one();
-		var_dump($result1);
-
 		$post = Yii::$app->request->post();
 		if (isset($post['Liunian'])) {
 			$access = $post['Liunian']['access'];
