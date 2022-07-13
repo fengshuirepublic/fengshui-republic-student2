@@ -618,7 +618,7 @@ class ToolsController extends Controller
 
 	public function actionBaziliunian()
 	{
-		$baziliunian = AccessBazi::find()
+		$baziliunian = AccessA3::find()
 			->select('is_visible, access')
 			->asArray()
 			->one();
@@ -678,6 +678,13 @@ class ToolsController extends Controller
 	
 	public function actionBaziAccess()
 	{
+
+		$baziliunian = AccessA3::find()
+			->select('is_visible, access')
+			->asArray()
+			->one();
+		var_dump($baziliunian);
+
 		$post = Yii::$app->request->post();
 		if (isset($post['Liunian'])) {
 			$access = $post['Liunian']['access'];
